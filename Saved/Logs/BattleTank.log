@@ -388,3 +388,86 @@ LogInit: Object subsystem initialized
 [2018.11.18-15.49.55:616][189]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Alberto99\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
 [2018.11.18-15.50.04:045][968]LogSlate: Window 'Project Settings' being destroyed
 [2018.11.18-15.50.04:049][968]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.18-16.43.40:426][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.18-16.43.41:746][243]Cmd: DELETE
+[2018.11.18-16.43.41:746][243]Cmd: ACTOR DELETE
+[2018.11.18-16.43.42:238][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.18-16.43.42:392][243]LogEditorActor: Deleted 1 Actors (0.283 secs)
+[2018.11.18-16.43.43:658][390]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2018.11.18-16.43.51:854][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-16.43.52:077][328]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.11.18-16.43.52:253][328]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-16.43.52:253][328]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.11.18-16.43.52:340][328]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.11.18-16.43.52:497][328]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.11.18-16.43.52:649][328]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.18-16.43.52:649][328]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.18-16.43.52:649][328]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.11.18-16.43.53:144][328]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.11.18-16.43.53:175][328]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.11.18-16.43.53:222][328]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.11.18-16.43.53:300][328]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.11.18-16.43.53:378][328]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.11.18-16.43.53:450][328]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.11.18-16.43.53:518][328]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.11.18-16.43.53:607][328]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.11.18-16.43.56:525][392]LogShaderCompilers: Display: Shaders left to compile 188
+[2018.11.18-16.43.57:775][487]LogShaderCompilers: Display: Shaders left to compile 178
+[2018.11.18-16.43.58:054][488]LogShaderCompilers: Display: Shaders left to compile 168
+[2018.11.18-16.44.00:186][489]LogShaderCompilers: Display: Shaders left to compile 158
+[2018.11.18-16.44.00:186][489]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.11.18-16.44.02:216][491]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.11.18-16.44.02:233][491]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.11.18-16.44.02:254][491]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.18-16.44.02:437][491]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.11.18-16.44.02:455][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-16.44.03:996][542]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.11.18-16.44.04:007][542]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.18-16.44.04:044][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-16.44.05:196][543]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.11.18-16.44.05:211][543]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.11.18-16.44.08:278][545]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.11.18-16.44.08:278][545]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.11.18-16.44.08:278][545]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.18-16.44.08:280][545]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.18-16.44.08:319][545]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-16.44.08:328][545]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.18-16.44.08:340][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-16.44.09:240][547]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.18-16.44.10:243][548]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.18-16.44.10:271][551]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.18-16.44.11:318][562]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-16.44.12:342][563]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-16.44.22:362][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-16.44.37:494][758]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2018.11.18-16.44.38:053][808]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (Landscape)
+[2018.11.18-16.44.38:053][808]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.11.18-16.44.38:054][808]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (Landscape)
+[2018.11.18-16.44.39:236][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-16.44.40:099][ 36]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.18-16.44.40:856][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-16.44.53:636][536]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2018.11.18-16.44.53:681][536]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.11.18-16.44.55:790][785]Cmd: TRANSACTION UNDO
+[2018.11.18-16.44.55:791][785]LogEditorTransaction: Undo Delete selection
+[2018.11.18-16.44.55:954][785]LogSlate: Took 0.019104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.18-16.44.57:564][952]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2018.11.18-16.44.57:584][952]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.11.18-16.44.58:870][ 95]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
+[2018.11.18-16.45.34:347][187]LogSavePackage: Save=284.22ms
+[2018.11.18-16.45.34:348][187]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Untitled_1_Auto13B6CBFB8442A19206F3E798391455342.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.11.18-16.45.34:379][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2018.11.18-16.45.34:548][187]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.870
+[2018.11.18-16.45.34:573][187]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.870
+[2018.11.18-16.46.46:046][417]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.18-16.46.46:053][417]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2018.11.18-16.46.46:262][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleTankMap" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.18-16.46.46:330][417]LogSavePackage: Save=55.74ms
+[2018.11.18-16.46.46:330][417]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/BattleTankMapEA7B36634EA5270B0CCC17ABC430E51F.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap'
+[2018.11.18-16.46.46:335][417]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap
+[2018.11.18-16.46.46:369][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleTankMap_BuiltData" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset" SILENT=true
+[2018.11.18-16.46.46:424][417]LogSavePackage: Save=53.05ms
+[2018.11.18-16.46.46:424][417]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/BattleTankMap_BuiltDataB4FC61954081E435F6358D83D5058C6E.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset'
+[2018.11.18-16.46.46:427][417]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset
+[2018.11.18-16.46.46:434][417]LogFileHelpers: Saving map 'BattleTankMap' took 0.330
+[2018.11.18-16.46.46:638][426]LogSlate: Took 0.000484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
