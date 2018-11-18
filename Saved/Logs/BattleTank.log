@@ -1061,3 +1061,1774 @@ LogInit: Object subsystem initialized
 [2018.11.18-17.27.11:585][244]LogSavePackage: Save=12.86ms
 [2018.11.18-17.27.11:585][244]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/BattleTankMap_BuiltDataCBBBDDC54DC22801B7E6E19B7F2830DF.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset'
 [2018.11.18-17.27.11:588][244]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset
+[2018.11.18-17.28.24:577][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.28.32:973][434]LogRenderer: Reallocating scene render targets to support 1196x724 Format 10 NumSamples 1 (Frame:136312).
+[2018.11.18-17.28.33:022][435]LogRenderer: Reallocating scene render targets to support 1208x724 Format 10 NumSamples 1 (Frame:136314).
+[2018.11.18-17.28.33:100][436]LogRenderer: Reallocating scene render targets to support 1220x724 Format 10 NumSamples 1 (Frame:136316).
+[2018.11.18-17.28.33:147][437]LogRenderer: Reallocating scene render targets to support 1240x724 Format 10 NumSamples 1 (Frame:136318).
+[2018.11.18-17.28.33:192][438]LogRenderer: Reallocating scene render targets to support 1248x724 Format 10 NumSamples 1 (Frame:136320).
+[2018.11.18-17.28.33:236][439]LogRenderer: Reallocating scene render targets to support 1256x724 Format 10 NumSamples 1 (Frame:136322).
+[2018.11.18-17.28.33:328][442]LogRenderer: Reallocating scene render targets to support 1260x724 Format 10 NumSamples 1 (Frame:136326).
+[2018.11.18-17.28.33:373][443]LogRenderer: Reallocating scene render targets to support 1276x724 Format 10 NumSamples 1 (Frame:136328).
+[2018.11.18-17.28.33:418][444]LogRenderer: Reallocating scene render targets to support 1280x724 Format 10 NumSamples 1 (Frame:136330).
+[2018.11.18-17.28.36:485][757]LogRenderer: Reallocating scene render targets to support 1288x724 Format 10 NumSamples 1 (Frame:136550).
+[2018.11.18-17.28.36:533][758]LogRenderer: Reallocating scene render targets to support 1296x724 Format 10 NumSamples 1 (Frame:136552).
+[2018.11.18-17.28.36:580][759]LogRenderer: Reallocating scene render targets to support 1304x724 Format 10 NumSamples 1 (Frame:136554).
+[2018.11.18-17.28.36:644][760]LogRenderer: Reallocating scene render targets to support 1308x724 Format 10 NumSamples 1 (Frame:136556).
+[2018.11.18-17.28.36:690][761]LogRenderer: Reallocating scene render targets to support 1316x724 Format 10 NumSamples 1 (Frame:136558).
+[2018.11.18-17.28.36:739][762]LogRenderer: Reallocating scene render targets to support 1320x724 Format 10 NumSamples 1 (Frame:136560).
+[2018.11.18-17.29.21:169][ 18]LogRenderer: Reallocating scene render targets to support 1556x724 Format 10 NumSamples 1 (Frame:141112).
+[2018.11.18-17.29.29:593][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.29.29:676][ 22]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.18-17.29.29:777][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.18-17.29.29:879][ 22]PIE: New page: PIE session: BattleTankMap (18/nov/2018 19:29:29)
+[2018.11.18-17.29.29:888][ 22]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleTankMap
+[2018.11.18-17.29.30:079][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.190902s)
+[2018.11.18-17.29.30:080][ 22]LogAIModule: Creating AISystem for world BattleTankMap
+[2018.11.18-17.29.30:085][ 22]LogPlayLevel: PIE: World Init took: (0.005893s)
+[2018.11.18-17.29.30:085][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleTankMap.BattleTankMap to /Game/UEDPIE_0_BattleTankMap.BattleTankMap (0.197153s)
+[2018.11.18-17.29.30:119][ 22]LogInit: XAudio2 using 'Altoparlanti (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.18-17.29.30:136][ 22]LogInit: FAudioDevice initialized.
+[2018.11.18-17.29.30:196][ 22]LogLoad: Game class is 'GameModeBase'
+[2018.11.18-17.29.30:294][ 22]LogWorld: Bringing World /Game/UEDPIE_0_BattleTankMap.BattleTankMap up for play (max tick rate 0) at 2018.11.18-18.29.30
+[2018.11.18-17.29.30:340][ 22]LogWorld: Bringing up level for play took: 0.071756
+[2018.11.18-17.29.30:511][ 22]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0044 seconds. Added 11 classes and 0 folders.
+[2018.11.18-17.29.30:536][ 22]PIE: Play in editor start time for /Game/UEDPIE_0_BattleTankMap 0,318
+[2018.11.18-17.29.33:646][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.29.34:696][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.18-17.29.34:696][440]PIE: New page: PIE session: BattleTankMap (18/nov/2018 19:29:34)
+[2018.11.18-17.29.34:696][440]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleTankMap
+[2018.11.18-17.29.34:815][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.118800s)
+[2018.11.18-17.29.34:816][440]LogAIModule: Creating AISystem for world BattleTankMap
+[2018.11.18-17.29.34:816][440]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2018.11.18-17.29.34:816][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleTankMap.BattleTankMap to /Game/UEDPIE_0_BattleTankMap.BattleTankMap (0.119906s)
+[2018.11.18-17.29.34:843][440]LogInit: XAudio2 using 'Altoparlanti (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.18-17.29.34:855][440]LogInit: FAudioDevice initialized.
+[2018.11.18-17.29.34:867][440]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.29.34:939][440]LogLoad: Game class is 'GameModeBase'
+[2018.11.18-17.29.34:965][440]LogWorld: Bringing World /Game/UEDPIE_0_BattleTankMap.BattleTankMap up for play (max tick rate 0) at 2018.11.18-18.29.34
+[2018.11.18-17.29.34:966][440]LogWorld: Bringing up level for play took: 0.026143
+[2018.11.18-17.29.34:971][440]PIE: Play in editor start time for /Game/UEDPIE_0_BattleTankMap 0,754
+[2018.11.18-17.29.34:997][440]LogRenderer: Reallocating scene render targets to support 1556x756 Format 10 NumSamples 1 (Frame:1).
+[2018.11.18-17.29.46:594][814]LogSlate: Window 'BattleTank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.18-17.30.15:699][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.30.29:941][899]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.30.31:087][899]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.30.31:109][899]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.30.31:109][899]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.30.31:109][899]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.30.31:364][899]LogSlate: Took 0.216162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.18-17.30.32:826][918]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.30.32:853][919]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.30.32:853][919]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.30.33:034][921]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.30.33:053][922]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.30.33:220][923]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.30.33:243][924]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.30.33:527][952]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.30.33:548][953]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.30.33:578][955]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.30.33:764][956]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.30.33:909][958]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.30.33:939][960]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.30.38:448][445]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.30.38:558][446]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.30.38:558][446]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.30.38:558][446]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.30.38:698][447]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.30.38:747][450]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.30.38:792][453]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.30.38:910][454]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.30.38:967][455]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.30.38:981][456]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.30.39:103][458]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.30.39:337][459]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.30.39:407][460]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.30.39:407][460]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.30.39:606][461]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.30.39:758][462]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.30.39:832][465]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.30.40:810][553]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.30.40:828][554]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.30.40:828][554]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.30.40:828][554]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.30.41:051][558]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.30.41:051][558]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.30.41:221][560]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.30.41:221][560]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.30.41:238][561]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.30.41:251][562]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.30.41:401][563]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.30.41:589][565]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.30.41:590][565]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.30.41:645][570]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.30.42:837][640]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.30.42:838][640]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.30.42:838][640]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.30.43:964][732]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.30.43:964][732]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.30.43:964][732]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.30.43:964][732]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.18-17.31.13:680][643]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.13:689][643]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.13:701][644]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.31.13:701][644]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.13:701][644]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.14:023][663]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.14:032][663]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.14:634][690]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.31.14:681][692]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.14:731][695]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.14:874][696]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.31.14:963][699]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.31.14:999][702]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.31.15:125][704]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.31.15:192][705]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.31.15:227][707]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.31.15:368][712]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.31.15:579][713]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.31.15:656][718]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.31.15:687][719]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.31.15:966][721]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.31.16:094][723]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.31.16:223][725]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.31.16:654][743]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.31.16:654][743]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.31.16:654][743]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.31.16:654][743]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.18-17.31.20:638][130]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.20:648][130]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.20:683][131]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.31.20:683][131]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.20:683][131]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.20:866][132]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.31.20:893][134]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.31.20:912][135]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.31.21:053][137]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.31.21:053][137]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.31.21:084][139]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.31.21:229][141]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.31.21:419][144]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.31.21:430][145]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.31.21:490][151]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.31.21:680][152]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.31.21:695][153]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.21:906][161]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.31.22:027][164]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.22:095][166]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.22:161][167]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.31.22:246][170]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.31.22:315][171]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.31.22:366][174]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.31.22:447][175]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.31.22:505][177]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.31.22:569][181]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.31.22:801][188]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.31.22:870][189]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.31.22:956][191]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.31.23:199][193]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.31.23:287][194]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.31.23:350][197]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.31.23:848][223]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.31.23:848][223]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.31.23:848][223]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.31.23:848][223]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.18-17.31.29:580][765]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.29:587][765]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.31.29:587][765]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.29:587][765]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.29:589][765]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.29:782][767]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.31.29:806][769]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.29:833][770]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.30:010][772]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.31.30:061][776]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.31.30:080][777]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.31.30:221][778]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.31.30:221][778]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.31.30:246][780]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.31.30:251][780]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.30:439][786]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.31.30:587][787]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.30:642][790]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.30:681][793]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.31.30:863][795]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.31.30:863][795]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.31.30:923][797]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.31.31:050][798]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.31.31:080][800]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.31.31:151][802]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.31.31:381][803]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.31.31:480][805]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.31.31:512][807]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.31.31:714][808]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.31.31:912][829]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.31.32:068][835]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.31.39:658][683]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.31.39:658][683]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.31.39:658][683]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.31.39:658][683]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.18-17.31.40:527][774]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.40:535][774]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.11.18-17.31.40:588][775]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.31.40:588][775]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.40:588][775]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.40:745][776]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.40:765][777]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.40:806][779]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.31.40:940][781]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.31.40:980][784]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.31.41:020][786]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.31.41:317][787]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.31.41:333][788]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.31.41:345][789]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.31.41:403][791]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.31.41:583][793]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.31.41:727][794]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.31.41:759][797]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.31.42:061][828]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.31.42:259][849]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.31.42:353][850]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.31.42:354][850]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.31.42:354][850]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.31.42:354][850]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.18-17.31.47:042][320]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.47:056][320]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.31.47:056][320]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.47:056][320]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.47:058][320]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.11.18-17.31.47:296][324]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.47:317][325]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.47:336][326]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.31.47:469][328]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.31.47:503][330]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.31.47:542][331]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.31.47:693][341]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.31.47:892][342]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.31.47:922][344]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.31.47:963][345]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.31.48:203][350]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.31.48:343][353]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.31.48:422][355]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.31.48:640][357]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.31.48:640][357]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.31.48:714][358]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.31.48:714][358]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.31.48:714][358]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.31.48:714][358]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.18-17.31.50:278][510]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.50:286][510]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.31.50:286][510]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.50:286][510]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.50:286][510]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2018.11.18-17.31.50:491][512]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.50:526][514]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.50:538][515]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.31.50:681][516]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.31.50:699][517]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.31.50:733][520]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.31.50:877][521]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.31.51:071][522]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.31.51:071][522]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.31.51:104][524]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.31.51:301][525]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.31.51:698][563]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.31.51:839][578]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.31.52:029][598]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.52:043][598]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2018.11.18-17.31.52:127][600]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.31.52:200][601]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.31.52:273][602]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.31.52:410][605]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.52:490][610]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.52:527][611]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.31.52:623][613]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.31.52:676][615]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.31.52:714][617]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.31.52:805][618]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.31.52:993][619]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.31.53:011][621]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.31.53:018][621]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.53:043][621]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.18-17.31.53:099][622]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.18-17.31.53:381][622]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.18-17.31.53:381][622]LogSlate: Took 0.017726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.18-17.31.53:448][624]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.31.53:487][627]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.31.53:649][631]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.31.53:698][632]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.53:709][633]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.53:852][634]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.31.53:868][635]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.31.53:894][637]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.31.54:054][639]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.31.54:080][641]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.31.54:252][644]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.31.54:301][646]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.31.54:444][648]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.31.54:620][650]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.31.54:652][652]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.31.54:740][656]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.31.54:943][658]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.31.54:971][659]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.31.55:077][661]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.31.55:077][661]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.31.55:077][661]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.31.55:077][661]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.18-17.31.56:329][776]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.56:337][776]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.31.56:337][776]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.56:337][776]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.56:362][776]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.18-17.31.56:560][778]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.56:573][779]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.56:676][787]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.31.56:783][789]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.31.56:795][789]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.31.56:797][789]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.31.56:890][790]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.31.56:983][791]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.31.57:148][793]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.31.57:210][795]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.31.57:210][795]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.31.57:358][796]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.31.57:424][801]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.31.57:445][803]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.31.57:728][832]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.31.57:799][839]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.31.57:811][840]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.31.58:172][877]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.31.58:529][917]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.31.58:575][922]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.31.58:584][923]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.31.58:809][928]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.31.58:940][932]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.31.59:027][933]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.32.00:051][ 18]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.00:062][ 18]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.00:062][ 18]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.00:062][ 18]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.00:064][ 18]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.18-17.32.00:296][ 20]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.00:325][ 22]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.00:339][ 23]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.00:487][ 24]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.00:545][ 27]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.00:545][ 27]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.00:808][ 49]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.00:964][ 50]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.01:000][ 52]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.01:048][ 53]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.32.01:114][ 53]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.01:152][ 53]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.18-17.32.01:155][ 53]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.11.18-17.32.01:280][ 55]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.18-17.32.01:406][ 56]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.18-17.32.01:444][ 58]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.01:541][ 61]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.01:670][ 63]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.01:714][ 68]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.01:798][ 76]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.01:988][ 96]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.02:080][105]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.02:164][114]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.02:507][139]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.02:563][140]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.02:672][147]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.02:870][149]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.02:904][150]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.32.03:043][152]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.32.03:216][153]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.32.03:249][155]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.32.03:340][163]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.32.03:540][163]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.32.03:540][163]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.32.03:540][163]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.32.03:540][163]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.32.03:540][163]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.18-17.32.04:487][252]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.04:497][252]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.04:497][252]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.04:497][252]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.04:499][252]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.11.18-17.32.05:046][253]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.05:046][253]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.05:046][253]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.05:046][253]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.05:046][253]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.05:059][254]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.05:406][286]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.05:643][288]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.05:721][292]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.05:722][292]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.32.06:410][294]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.32.06:445][295]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.32.06:445][295]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.32.06:763][296]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.32.06:764][296]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.32.07:419][297]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.32.07:420][297]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.32.07:420][297]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.32.07:420][297]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.18-17.32.12:373][775]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.12:384][775]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.12:384][775]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.12:384][775]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.12:384][775]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.18-17.32.12:589][777]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.12:620][778]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.12:620][778]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.12:749][779]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.12:769][780]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.12:818][783]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.12:948][785]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.13:138][786]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.13:138][786]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.13:138][786]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.32.13:340][806]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.13:352][806]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.18-17.32.13:468][810]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.13:544][812]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.13:646][813]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.13:668][814]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.13:733][815]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.13:826][817]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.13:844][818]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.13:897][819]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.13:978][821]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.14:005][822]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.14:170][823]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.14:300][825]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.14:301][825]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.32.14:481][827]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.32.14:496][828]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.32.14:574][829]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.32.14:746][830]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.32.14:788][833]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.32.14:806][834]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.32.14:806][834]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.32.14:806][834]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.32.14:806][834]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.18-17.32.15:661][924]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.15:674][924]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.15:674][924]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.15:674][924]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.15:676][924]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.18-17.32.15:854][926]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.15:870][927]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.15:896][929]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.16:016][930]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.16:082][932]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.16:083][932]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.16:186][933]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.16:394][935]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.16:434][939]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.16:443][940]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.32.16:611][959]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.16:623][959]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.18-17.32.16:922][961]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.16:923][961]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.16:923][961]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.16:961][962]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.17:134][966]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.17:134][966]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.17:146][967]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.17:271][968]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.17:299][970]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.17:321][971]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.17:495][973]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.18:306][985]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.18:306][985]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.32.18:306][985]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.32.18:306][985]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.32.18:306][985]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.32.18:306][985]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.32.18:306][985]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.32.18:482][  4]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.18:489][  4]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.18:494][  4]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.18-17.32.18:647][  6]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.18:647][  6]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.18:728][  7]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.18:761][ 10]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.18:913][ 26]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.19:022][ 38]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.19:080][ 44]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.19:093][ 45]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.19:105][ 45]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.18-17.32.19:141][ 46]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.19:221][ 47]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.19:330][ 49]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.19:399][ 50]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.19:399][ 50]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.19:546][ 52]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.19:561][ 53]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.19:571][ 54]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.19:725][ 56]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.19:742][ 57]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.19:876][ 59]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.19:928][ 60]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.20:029][ 71]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.20:045][ 71]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.18-17.32.20:070][ 71]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.18-17.32.20:287][ 72]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.20:287][ 72]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.20:311][ 73]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.20:353][ 75]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.20:494][ 76]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.20:511][ 77]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.20:528][ 78]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.20:637][ 79]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.20:660][ 80]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.20:692][ 82]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.20:864][ 84]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.20:966][ 85]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.20:990][ 86]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.32.21:159][ 88]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.32.21:159][ 88]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.32.21:297][ 90]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.32.21:442][ 91]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.32.21:505][ 91]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.32.21:537][ 93]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.32.21:537][ 93]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.32.21:537][ 93]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.32.21:537][ 93]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.18-17.32.24:243][353]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.24:257][353]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.24:257][353]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.24:257][353]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.24:260][353]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.11.18-17.32.24:444][354]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.24:444][354]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.24:458][355]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.24:594][357]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.24:615][358]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.24:615][358]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.24:751][360]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.25:045][390]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.25:092][395]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.25:104][396]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.32.25:491][436]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.32.25:718][460]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.32.25:719][460]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.32.25:981][488]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.32.26:028][493]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.32.26:882][585]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.26:897][585]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.26:897][585]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.26:897][585]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.26:899][585]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.11.18-17.32.27:105][587]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.27:105][587]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.27:124][588]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.27:259][589]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.27:278][590]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.27:310][592]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.27:547][616]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.27:812][641]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.27:909][651]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.27:999][660]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.32.28:021][662]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.28:035][662]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.11.18-17.32.28:230][664]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.28:279][666]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.28:339][667]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.28:438][669]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.28:504][672]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.28:571][674]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.28:677][683]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.28:850][700]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.28:905][706]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.28:914][707]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.28:999][716]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.29:016][716]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.11.18-17.32.29:172][718]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.29:249][720]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.29:275][721]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.29:383][723]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.29:448][724]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.29:449][724]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.29:633][744]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.29:712][753]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.29:712][753]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.29:992][784]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.30:258][813]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.30:303][818]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.30:312][819]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.32.30:651][856]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.32.30:909][885]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.32.30:927][887]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.32.30:993][894]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.31:006][894]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.11.18-17.32.31:097][896]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.31:144][897]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.31:280][901]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.31:318][903]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.31:369][904]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.31:585][925]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.31:595][926]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.31:598][926]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.31:609][926]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.11.18-17.32.31:734][927]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.31:735][927]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.31:735][927]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.31:829][929]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.31:954][932]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.31:954][932]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.32:011][934]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.32:129][937]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.32:139][938]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.32:204][945]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.32:511][975]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.32:571][981]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.32:584][981]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.11.18-17.32.32:661][984]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.32:707][985]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.32:851][987]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.32:894][988]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.32:911][989]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.33:038][990]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.33:038][990]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.33:077][994]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.33:168][  3]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.33:180][  3]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.11.18-17.32.33:300][  7]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.33:300][  7]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.33:480][  9]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.33:492][ 10]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.33:644][ 11]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.33:644][ 11]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.33:673][ 13]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.33:698][ 14]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.33:802][ 15]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.33:839][ 19]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.33:889][ 24]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.33:904][ 24]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.11.18-17.32.33:929][ 24]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.18-17.32.34:058][ 25]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.34:087][ 26]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.34:199][ 28]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.34:255][ 29]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.34:295][ 32]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.34:390][ 33]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.34:463][ 37]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.34:463][ 37]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.34:577][ 39]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.34:637][ 41]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.34:775][ 44]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.34:839][ 46]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.34:969][ 47]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.32.35:121][ 48]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.32.35:174][ 49]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.32.35:234][ 52]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.32.35:394][ 54]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.32.35:417][ 56]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.32.35:568][ 62]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.32.35:569][ 62]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.32.35:569][ 62]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.32.35:569][ 62]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.18-17.32.40:125][495]LogMaterialEditor: Applying material LandScape
+[2018.11.18-17.32.40:907][495]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.40:942][495]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.40:942][495]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.40:942][495]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.40:976][495]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.41:002][495]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.41:235][495]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.18-17.32.41:235][495]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.18-17.32.41:236][495]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.18-17.32.41:236][495]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LandScape, compiling. 
+[2018.11.18-17.32.42:292][495]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.18-17.32.42:293][495]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.18-17.32.42:293][495]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.18-17.32.42:293][495]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.18-17.32.42:293][495]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.18-17.32.42:293][495]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.18-17.32.42:293][495]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.18-17.32.42:293][495]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.18-17.32.42:293][495]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.18-17.32.42:293][495]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.18-17.32.42:293][495]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.18-17.32.42:293][495]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.18-17.32.42:293][495]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.42:293][495]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.32.42:304][495]TextureStreamingBuild: Display: Compiling optional shaders took 1.084 seconds.
+[2018.11.18-17.32.46:008][581]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.32.46:008][581]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.32.46:008][581]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.32.46:008][581]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.18-17.32.51:174][987]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.51:185][987]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.51:185][987]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.51:186][987]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.51:188][987]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.18-17.32.51:214][987]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.51:401][989]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.51:431][991]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.51:483][993]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.51:677][995]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.51:732][996]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.51:750][997]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.51:911][998]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.51:911][998]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.51:981][  0]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.52:098][  1]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.52:098][  1]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.52:170][  3]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.52:380][  4]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.32.52:477][  5]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.32.52:503][  6]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.32.52:687][  7]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.32.52:692][  7]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.52:783][  8]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.53:029][ 11]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.53:030][ 11]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.53:143][ 13]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.53:242][ 14]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.53:272][ 16]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.53:353][ 19]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.32.53:474][ 21]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.32.53:492][ 22]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.32.53:551][ 23]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.32.53:763][ 24]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.32.53:829][ 25]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.32.53:887][ 30]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.32.54:230][ 52]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.32.54:305][ 54]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.32.54:446][ 58]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.18-17.32.54:861][ 84]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.32.54:861][ 84]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.32.54:861][ 84]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.32.54:861][ 84]MaterialEditorStats: Texture samplers: 2/16
+[2018.11.18-17.32.58:634][442]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.58:647][442]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.11.18-17.32.58:661][442]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.58:661][442]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.58:661][442]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.58:674][442]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.58:886][445]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.18-17.32.58:886][445]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.18-17.32.58:936][447]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.59:099][448]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.59:141][449]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.59:220][451]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.59:393][453]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.59:397][453]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.32.59:468][456]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.32.59:518][457]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.18-17.32.59:600][458]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.18-17.32.59:693][459]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.18-17.32.59:759][460]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.32.59:843][461]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.18-17.32.59:917][464]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.18-17.33.00:121][466]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-17.33.00:121][466]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.18-17.33.00:159][468]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.18-17.33.00:373][469]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.33.00:375][469]LogMaterialEditor: Applying material LandScape
+[2018.11.18-17.33.01:037][469]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.18-17.33.01:037][469]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.18-17.33.01:037][469]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.18-17.33.01:037][469]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.33.01:049][469]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.33.01:072][469]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.33.01:112][469]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.33.01:153][469]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.33.01:198][469]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LandScape, compiling. 
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.33.02:835][469]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.33.02:840][469]TextureStreamingBuild: Display: Compiling optional shaders took 1.646 seconds.
+[2018.11.18-17.33.09:250][ 65]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.18-17.33.09:250][ 65]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.18-17.33.09:250][ 65]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.18-17.33.09:250][ 65]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.18-17.34.24:686][196]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.34.24:796][196]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.18-17.34.24:796][196]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.18-17.34.24:796][196]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.18-17.34.24:861][196]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.34.24:873][196]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.34.24:916][196]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.34.27:730][212]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.18-17.34.27:730][212]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.18-17.34.28:147][214]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.18-17.34.29:486][215]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.18-17.34.44:691][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.34.56:095][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.34.58:984][862]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2018.11.18-17.34.59:034][862]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2018.11.18-17.34.59:077][862]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.34.59:096][862]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.18-17.34.59:096][862]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.18-17.34.59:096][862]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.18-17.34.59:142][862]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2018.11.18-17.34.59:186][862]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2018.11.18-17.34.59:229][862]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2018.11.18-17.34.59:273][862]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2018.11.18-17.34.59:380][862]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2018.11.18-17.34.59:429][862]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2018.11.18-17.34.59:476][862]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2018.11.18-17.34.59:524][862]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2018.11.18-17.34.59:571][862]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2018.11.18-17.34.59:621][862]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2018.11.18-17.34.59:669][862]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2018.11.18-17.34.59:719][862]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2018.11.18-17.34.59:834][862]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2018.11.18-17.34.59:882][862]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2018.11.18-17.34.59:931][862]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2018.11.18-17.34.59:981][862]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2018.11.18-17.35.00:030][862]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2018.11.18-17.35.00:079][862]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2018.11.18-17.35.00:130][862]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2018.11.18-17.35.00:180][862]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2018.11.18-17.35.00:298][862]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2018.11.18-17.35.00:345][862]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2018.11.18-17.35.00:395][862]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2018.11.18-17.35.00:451][862]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2018.11.18-17.35.00:500][862]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2018.11.18-17.35.00:553][862]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2018.11.18-17.35.00:606][862]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2018.11.18-17.35.00:739][862]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2018.11.18-17.35.00:790][862]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2018.11.18-17.35.00:844][862]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2018.11.18-17.35.00:897][862]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2018.11.18-17.35.00:951][862]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2018.11.18-17.35.01:005][862]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2018.11.18-17.35.01:057][862]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2018.11.18-17.35.01:109][862]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2018.11.18-17.35.01:230][862]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2018.11.18-17.35.01:282][862]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2018.11.18-17.35.01:333][862]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2018.11.18-17.35.01:384][862]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2018.11.18-17.35.01:435][862]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2018.11.18-17.35.01:488][862]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2018.11.18-17.35.01:544][862]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2018.11.18-17.35.01:594][862]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2018.11.18-17.35.01:725][862]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2018.11.18-17.35.01:780][862]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2018.11.18-17.35.01:832][862]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2018.11.18-17.35.01:885][862]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2018.11.18-17.35.01:940][862]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2018.11.18-17.35.01:993][862]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2018.11.18-17.35.02:046][862]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2018.11.18-17.35.02:098][862]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2018.11.18-17.35.02:231][862]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 64X64)
+[2018.11.18-17.35.02:287][862]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 64X64)
+[2018.11.18-17.35.02:345][862]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 64X64)
+[2018.11.18-17.35.02:405][862]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2018.11.18-17.35.02:454][862]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 64X64)
+[2018.11.18-17.35.02:508][862]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 64X64)
+[2018.11.18-17.35.02:570][862]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 64X64)
+[2018.11.18-17.35.02:629][862]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2018.11.18-17.35.02:765][862]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 64X64)
+[2018.11.18-17.35.02:820][862]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 64X64)
+[2018.11.18-17.35.02:872][862]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 64X64)
+[2018.11.18-17.35.02:924][862]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2018.11.18-17.35.02:976][862]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 64X64)
+[2018.11.18-17.35.03:029][862]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2018.11.18-17.35.03:081][862]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2018.11.18-17.35.03:208][862]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2018.11.18-17.35.03:259][862]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2018.11.18-17.35.03:306][862]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.35.03:312][862]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2018.11.18-17.35.03:361][862]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2018.11.18-17.35.03:412][862]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 64X64)
+[2018.11.18-17.35.03:462][862]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 64X64)
+[2018.11.18-17.35.03:513][862]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2018.11.18-17.35.03:564][862]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 64X64)
+[2018.11.18-17.35.03:688][862]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2018.11.18-17.35.03:738][862]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2018.11.18-17.35.03:788][862]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2018.11.18-17.35.03:838][862]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2018.11.18-17.35.03:890][862]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2018.11.18-17.35.03:946][862]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2018.11.18-17.35.03:999][862]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 64X64)
+[2018.11.18-17.35.04:049][862]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2018.11.18-17.35.04:177][862]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2018.11.18-17.35.04:230][862]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 64X64)
+[2018.11.18-17.35.04:281][862]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2018.11.18-17.35.04:330][862]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2018.11.18-17.35.04:379][862]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2018.11.18-17.35.04:395][862]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.35.04:429][862]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 64X64)
+[2018.11.18-17.35.04:482][862]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 64X64)
+[2018.11.18-17.35.04:533][862]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 64X64)
+[2018.11.18-17.35.04:661][862]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 64X64)
+[2018.11.18-17.35.04:711][862]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2018.11.18-17.35.04:768][862]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2018.11.18-17.35.04:822][862]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2018.11.18-17.35.04:874][862]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2018.11.18-17.35.04:926][862]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2018.11.18-17.35.04:979][862]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 64X64)
+[2018.11.18-17.35.05:111][862]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2018.11.18-17.35.05:161][862]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2018.11.18-17.35.05:214][862]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2018.11.18-17.35.05:262][862]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2018.11.18-17.35.05:310][862]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2018.11.18-17.35.05:369][862]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 64X64)
+[2018.11.18-17.35.05:424][862]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 64X64)
+[2018.11.18-17.35.05:472][862]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 64X64)
+[2018.11.18-17.35.05:610][862]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 64X64)
+[2018.11.18-17.35.05:668][862]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 64X64)
+[2018.11.18-17.35.05:720][862]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 64X64)
+[2018.11.18-17.35.05:774][862]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 64X64)
+[2018.11.18-17.35.05:826][862]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 64X64)
+[2018.11.18-17.35.05:878][862]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2018.11.18-17.35.05:929][862]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 64X64)
+[2018.11.18-17.35.05:980][862]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 64X64)
+[2018.11.18-17.35.06:118][862]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 64X64)
+[2018.11.18-17.35.06:168][862]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 64X64)
+[2018.11.18-17.35.06:219][862]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 64X64)
+[2018.11.18-17.35.06:271][862]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 64X64)
+[2018.11.18-17.35.06:322][862]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 64X64)
+[2018.11.18-17.35.06:376][862]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 64X64)
+[2018.11.18-17.35.06:421][862]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 64X64)
+[2018.11.18-17.35.06:471][862]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 64X64)
+[2018.11.18-17.35.06:604][862]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 64X64)
+[2018.11.18-17.35.06:655][862]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2018.11.18-17.35.06:704][862]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 64X64)
+[2018.11.18-17.35.06:761][862]LogTexture: Display: Building textures: Texture2D_141 (BGRA8, 64X64)
+[2018.11.18-17.35.06:816][862]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 64X64)
+[2018.11.18-17.35.06:868][862]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 64X64)
+[2018.11.18-17.35.06:922][862]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 64X64)
+[2018.11.18-17.35.06:974][862]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 64X64)
+[2018.11.18-17.35.07:111][862]LogTexture: Display: Building textures: Texture2D_146 (BGRA8, 64X64)
+[2018.11.18-17.35.07:162][862]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 64X64)
+[2018.11.18-17.35.07:213][862]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 64X64)
+[2018.11.18-17.35.07:264][862]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 64X64)
+[2018.11.18-17.35.07:314][862]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 64X64)
+[2018.11.18-17.35.07:368][862]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 64X64)
+[2018.11.18-17.35.07:420][862]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 64X64)
+[2018.11.18-17.35.07:563][862]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 64X64)
+[2018.11.18-17.35.07:613][862]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 64X64)
+[2018.11.18-17.35.07:661][862]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 64X64)
+[2018.11.18-17.35.07:714][862]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 64X64)
+[2018.11.18-17.35.07:763][862]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 64X64)
+[2018.11.18-17.35.07:817][862]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 64X64)
+[2018.11.18-17.35.07:870][862]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 64X64)
+[2018.11.18-17.35.07:925][862]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 64X64)
+[2018.11.18-17.35.08:045][862]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 64X64)
+[2018.11.18-17.35.08:094][862]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 64X64)
+[2018.11.18-17.35.08:142][862]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 64X64)
+[2018.11.18-17.35.08:188][862]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 64X64)
+[2018.11.18-17.35.08:238][862]LogTexture: Display: Building textures: Texture2D_165 (BGRA8, 64X64)
+[2018.11.18-17.35.08:289][862]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 64X64)
+[2018.11.18-17.35.08:338][862]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 64X64)
+[2018.11.18-17.35.08:391][862]LogTexture: Display: Building textures: Texture2D_168 (BGRA8, 64X64)
+[2018.11.18-17.35.08:514][862]LogTexture: Display: Building textures: Texture2D_169 (BGRA8, 64X64)
+[2018.11.18-17.35.08:561][862]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 64X64)
+[2018.11.18-17.35.08:608][862]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 64X64)
+[2018.11.18-17.35.08:656][862]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 64X64)
+[2018.11.18-17.35.08:705][862]LogTexture: Display: Building textures: Texture2D_173 (BGRA8, 64X64)
+[2018.11.18-17.35.08:755][862]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 64X64)
+[2018.11.18-17.35.08:805][862]LogTexture: Display: Building textures: Texture2D_175 (BGRA8, 64X64)
+[2018.11.18-17.35.08:860][862]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 64X64)
+[2018.11.18-17.35.09:002][862]LogTexture: Display: Building textures: Texture2D_177 (BGRA8, 64X64)
+[2018.11.18-17.35.09:048][862]LogTexture: Display: Building textures: Texture2D_178 (BGRA8, 64X64)
+[2018.11.18-17.35.09:097][862]LogTexture: Display: Building textures: Texture2D_179 (BGRA8, 64X64)
+[2018.11.18-17.35.09:146][862]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 64X64)
+[2018.11.18-17.35.09:197][862]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 64X64)
+[2018.11.18-17.35.09:248][862]LogTexture: Display: Building textures: Texture2D_182 (BGRA8, 64X64)
+[2018.11.18-17.35.09:298][862]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 64X64)
+[2018.11.18-17.35.09:348][862]LogTexture: Display: Building textures: Texture2D_184 (BGRA8, 64X64)
+[2018.11.18-17.35.09:479][862]LogTexture: Display: Building textures: Texture2D_185 (BGRA8, 64X64)
+[2018.11.18-17.35.09:528][862]LogTexture: Display: Building textures: Texture2D_186 (BGRA8, 64X64)
+[2018.11.18-17.35.09:578][862]LogTexture: Display: Building textures: Texture2D_187 (BGRA8, 64X64)
+[2018.11.18-17.35.09:628][862]LogTexture: Display: Building textures: Texture2D_188 (BGRA8, 64X64)
+[2018.11.18-17.35.09:678][862]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 64X64)
+[2018.11.18-17.35.09:726][862]LogTexture: Display: Building textures: Texture2D_190 (BGRA8, 64X64)
+[2018.11.18-17.35.09:776][862]LogTexture: Display: Building textures: Texture2D_191 (BGRA8, 64X64)
+[2018.11.18-17.35.09:930][862]LogTexture: Display: Building textures: Texture2D_192 (BGRA8, 64X64)
+[2018.11.18-17.35.09:983][862]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 64X64)
+[2018.11.18-17.35.10:039][862]LogTexture: Display: Building textures: Texture2D_194 (BGRA8, 64X64)
+[2018.11.18-17.35.10:089][862]LogTexture: Display: Building textures: Texture2D_195 (BGRA8, 64X64)
+[2018.11.18-17.35.10:139][862]LogTexture: Display: Building textures: Texture2D_196 (BGRA8, 64X64)
+[2018.11.18-17.35.10:188][862]LogTexture: Display: Building textures: Texture2D_197 (BGRA8, 64X64)
+[2018.11.18-17.35.10:241][862]LogTexture: Display: Building textures: Texture2D_198 (BGRA8, 64X64)
+[2018.11.18-17.35.10:300][862]LogTexture: Display: Building textures: Texture2D_199 (BGRA8, 64X64)
+[2018.11.18-17.35.10:434][862]LogTexture: Display: Building textures: Texture2D_200 (BGRA8, 64X64)
+[2018.11.18-17.35.10:483][862]LogTexture: Display: Building textures: Texture2D_201 (BGRA8, 64X64)
+[2018.11.18-17.35.10:533][862]LogTexture: Display: Building textures: Texture2D_202 (BGRA8, 64X64)
+[2018.11.18-17.35.10:583][862]LogTexture: Display: Building textures: Texture2D_203 (BGRA8, 64X64)
+[2018.11.18-17.35.10:631][862]LogTexture: Display: Building textures: Texture2D_204 (BGRA8, 64X64)
+[2018.11.18-17.35.10:684][862]LogTexture: Display: Building textures: Texture2D_205 (BGRA8, 64X64)
+[2018.11.18-17.35.10:734][862]LogTexture: Display: Building textures: Texture2D_206 (BGRA8, 64X64)
+[2018.11.18-17.35.10:784][862]LogTexture: Display: Building textures: Texture2D_207 (BGRA8, 64X64)
+[2018.11.18-17.35.10:934][862]LogTexture: Display: Building textures: Texture2D_208 (BGRA8, 64X64)
+[2018.11.18-17.35.10:985][862]LogTexture: Display: Building textures: Texture2D_209 (BGRA8, 64X64)
+[2018.11.18-17.35.11:034][862]LogTexture: Display: Building textures: Texture2D_210 (BGRA8, 64X64)
+[2018.11.18-17.35.11:087][862]LogTexture: Display: Building textures: Texture2D_211 (BGRA8, 64X64)
+[2018.11.18-17.35.11:138][862]LogTexture: Display: Building textures: Texture2D_212 (BGRA8, 64X64)
+[2018.11.18-17.35.11:188][862]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 64X64)
+[2018.11.18-17.35.11:237][862]LogTexture: Display: Building textures: Texture2D_214 (BGRA8, 64X64)
+[2018.11.18-17.35.11:287][862]LogTexture: Display: Building textures: Texture2D_215 (BGRA8, 64X64)
+[2018.11.18-17.35.11:417][862]LogTexture: Display: Building textures: Texture2D_216 (BGRA8, 64X64)
+[2018.11.18-17.35.11:466][862]LogTexture: Display: Building textures: Texture2D_217 (BGRA8, 64X64)
+[2018.11.18-17.35.11:515][862]LogTexture: Display: Building textures: Texture2D_218 (BGRA8, 64X64)
+[2018.11.18-17.35.11:563][862]LogTexture: Display: Building textures: Texture2D_219 (BGRA8, 64X64)
+[2018.11.18-17.35.11:614][862]LogTexture: Display: Building textures: Texture2D_220 (BGRA8, 64X64)
+[2018.11.18-17.35.11:661][862]LogTexture: Display: Building textures: Texture2D_221 (BGRA8, 64X64)
+[2018.11.18-17.35.11:710][862]LogTexture: Display: Building textures: Texture2D_222 (BGRA8, 64X64)
+[2018.11.18-17.35.11:847][862]LogTexture: Display: Building textures: Texture2D_223 (BGRA8, 64X64)
+[2018.11.18-17.35.11:897][862]LogTexture: Display: Building textures: Texture2D_224 (BGRA8, 64X64)
+[2018.11.18-17.35.11:945][862]LogTexture: Display: Building textures: Texture2D_225 (BGRA8, 64X64)
+[2018.11.18-17.35.11:992][862]LogTexture: Display: Building textures: Texture2D_226 (BGRA8, 64X64)
+[2018.11.18-17.35.12:039][862]LogTexture: Display: Building textures: Texture2D_227 (BGRA8, 64X64)
+[2018.11.18-17.35.12:087][862]LogTexture: Display: Building textures: Texture2D_228 (BGRA8, 64X64)
+[2018.11.18-17.35.12:137][862]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 64X64)
+[2018.11.18-17.35.12:185][862]LogTexture: Display: Building textures: Texture2D_230 (BGRA8, 64X64)
+[2018.11.18-17.35.12:314][862]LogTexture: Display: Building textures: Texture2D_231 (BGRA8, 64X64)
+[2018.11.18-17.35.12:364][862]LogTexture: Display: Building textures: Texture2D_232 (BGRA8, 64X64)
+[2018.11.18-17.35.12:414][862]LogTexture: Display: Building textures: Texture2D_233 (BGRA8, 64X64)
+[2018.11.18-17.35.12:462][862]LogTexture: Display: Building textures: Texture2D_234 (BGRA8, 64X64)
+[2018.11.18-17.35.12:592][862]LogTexture: Display: Building textures: Texture2D_235 (BGRA8, 64X64)
+[2018.11.18-17.35.12:615][862]LogTexture: Display: Building textures: Texture2D_236 (BGRA8, 64X64)
+[2018.11.18-17.35.12:695][862]LogTexture: Display: Building textures: Texture2D_237 (BGRA8, 64X64)
+[2018.11.18-17.35.12:718][862]LogTexture: Display: Building textures: Texture2D_238 (BGRA8, 64X64)
+[2018.11.18-17.35.12:887][862]LogTexture: Display: Building textures: Texture2D_239 (BGRA8, 64X64)
+[2018.11.18-17.35.13:039][862]LogTexture: Display: Building textures: Texture2D_240 (BGRA8, 64X64)
+[2018.11.18-17.35.13:121][862]LogTexture: Display: Building textures: Texture2D_241 (BGRA8, 64X64)
+[2018.11.18-17.35.13:256][862]LogTexture: Display: Building textures: Texture2D_242 (BGRA8, 64X64)
+[2018.11.18-17.35.13:337][862]LogTexture: Display: Building textures: Texture2D_243 (BGRA8, 64X64)
+[2018.11.18-17.35.13:389][862]LogTexture: Display: Building textures: Texture2D_244 (BGRA8, 64X64)
+[2018.11.18-17.35.13:429][862]LogTexture: Display: Building textures: Texture2D_245 (BGRA8, 64X64)
+[2018.11.18-17.35.13:465][862]LogTexture: Display: Building textures: Texture2D_246 (BGRA8, 64X64)
+[2018.11.18-17.35.13:758][862]LogTexture: Display: Building textures: Texture2D_247 (BGRA8, 64X64)
+[2018.11.18-17.35.14:140][862]LogTexture: Display: Building textures: Texture2D_248 (BGRA8, 64X64)
+[2018.11.18-17.35.14:852][862]LogTexture: Display: Building textures: Texture2D_249 (BGRA8, 64X64)
+[2018.11.18-17.35.14:987][862]LogTexture: Display: Building textures: Texture2D_250 (BGRA8, 64X64)
+[2018.11.18-17.35.15:195][862]LogTexture: Display: Building textures: Texture2D_251 (BGRA8, 64X64)
+[2018.11.18-17.35.15:248][862]LogTexture: Display: Building textures: Texture2D_252 (BGRA8, 64X64)
+[2018.11.18-17.35.15:448][862]LogTexture: Display: Building textures: Texture2D_253 (BGRA8, 64X64)
+[2018.11.18-17.35.15:507][862]LogTexture: Display: Building textures: Texture2D_254 (BGRA8, 64X64)
+[2018.11.18-17.35.15:809][862]LogTexture: Display: Building textures: Texture2D_255 (BGRA8, 64X64)
+[2018.11.18-17.35.16:041][862]LogTexture: Display: Building textures: Texture2D_256 (BGRA8, 64X64)
+[2018.11.18-17.35.16:082][862]LogTexture: Display: Building textures: Texture2D_257 (BGRA8, 64X64)
+[2018.11.18-17.35.16:305][862]LogTexture: Display: Building textures: Texture2D_258 (BGRA8, 64X64)
+[2018.11.18-17.35.16:328][862]LogTexture: Display: Building textures: Texture2D_259 (BGRA8, 64X64)
+[2018.11.18-17.35.16:447][862]LogTexture: Display: Building textures: Texture2D_260 (BGRA8, 64X64)
+[2018.11.18-17.35.16:732][862]LogTexture: Display: Building textures: Texture2D_261 (BGRA8, 64X64)
+[2018.11.18-17.35.16:996][862]LogTexture: Display: Building textures: Texture2D_262 (BGRA8, 64X64)
+[2018.11.18-17.35.17:169][862]LogTexture: Display: Building textures: Texture2D_263 (BGRA8, 64X64)
+[2018.11.18-17.35.17:212][862]LogTexture: Display: Building textures: Texture2D_264 (BGRA8, 64X64)
+[2018.11.18-17.35.17:365][862]LogTexture: Display: Building textures: Texture2D_265 (BGRA8, 64X64)
+[2018.11.18-17.35.17:540][862]LogTexture: Display: Building textures: Texture2D_266 (BGRA8, 64X64)
+[2018.11.18-17.35.17:800][862]LogTexture: Display: Building textures: Texture2D_267 (BGRA8, 64X64)
+[2018.11.18-17.35.17:999][862]LogTexture: Display: Building textures: Texture2D_268 (BGRA8, 64X64)
+[2018.11.18-17.35.18:025][862]LogTexture: Display: Building textures: Texture2D_269 (BGRA8, 64X64)
+[2018.11.18-17.35.18:426][862]LogTexture: Display: Building textures: Texture2D_270 (BGRA8, 64X64)
+[2018.11.18-17.35.18:506][862]LogTexture: Display: Building textures: Texture2D_271 (BGRA8, 64X64)
+[2018.11.18-17.35.20:620][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.35.55:715][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.35.56:705][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.35.58:585][490]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2018.11.18-17.35.59:579][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.36.04:872][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.36.17:755][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.36.37:615][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.36.43:209][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.36.44:073][200]LogTexture: Display: Building textures: Texture2D_272 (BGRA8, 64X64)
+[2018.11.18-17.36.44:093][200]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.36.44:126][200]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.18-17.36.44:126][200]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.18-17.36.44:126][200]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.18-17.36.44:178][200]LogTexture: Display: Building textures: Texture2D_273 (BGRA8, 64X64)
+[2018.11.18-17.36.44:276][200]LogTexture: Display: Building textures: Texture2D_274 (BGRA8, 64X64)
+[2018.11.18-17.36.44:347][201]LogTexture: Display: Building textures: Texture2D_275 (BGRA8, 64X64)
+[2018.11.18-17.36.44:386][201]LogTexture: Display: Building textures: Texture2D_276 (BGRA8, 64X64)
+[2018.11.18-17.36.44:410][201]LogTexture: Display: Building textures: Texture2D_277 (BGRA8, 64X64)
+[2018.11.18-17.36.44:442][201]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2018.11.18-17.36.44:473][201]LogTexture: Display: Building textures: Texture2D_279 (BGRA8, 64X64)
+[2018.11.18-17.36.44:570][202]LogTexture: Display: Building textures: Texture2D_280 (BGRA8, 64X64)
+[2018.11.18-17.36.44:627][202]LogTexture: Display: Building textures: Texture2D_281 (BGRA8, 64X64)
+[2018.11.18-17.36.45:053][228]LogTexture: Display: Building textures: Texture2D_282 (BGRA8, 64X64)
+[2018.11.18-17.36.45:124][229]LogTexture: Display: Building textures: Texture2D_283 (BGRA8, 64X64)
+[2018.11.18-17.36.45:145][229]LogTexture: Display: Building textures: Texture2D_284 (BGRA8, 64X64)
+[2018.11.18-17.36.45:287][230]LogTexture: Display: Building textures: Texture2D_285 (BGRA8, 64X64)
+[2018.11.18-17.36.45:373][231]LogTexture: Display: Building textures: Texture2D_286 (BGRA8, 64X64)
+[2018.11.18-17.36.45:430][231]LogTexture: Display: Building textures: Texture2D_287 (BGRA8, 64X64)
+[2018.11.18-17.36.45:521][233]LogTexture: Display: Building textures: Texture2D_288 (BGRA8, 64X64)
+[2018.11.18-17.36.45:749][238]LogTexture: Display: Building textures: Texture2D_289 (BGRA8, 64X64)
+[2018.11.18-17.36.46:607][258]LogTexture: Display: Building textures: Texture2D_290 (BGRA8, 64X64)
+[2018.11.18-17.36.46:669][259]LogTexture: Display: Building textures: Texture2D_291 (BGRA8, 64X64)
+[2018.11.18-17.36.46:703][259]LogTexture: Display: Building textures: Texture2D_292 (BGRA8, 64X64)
+[2018.11.18-17.36.47:997][263]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.36.48:168][265]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.36.52:923][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.37.01:072][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.37.14:694][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.37.21:489][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.37.23:641][489]LogMaterial: Missing cached shader map for material LandScape, compiling. 
+[2018.11.18-17.37.23:662][489]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.18-17.37.23:662][489]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.18-17.37.23:662][489]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.18-17.37.25:975][528]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.18-17.37.26:200][529]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.18-17.37.27:236][581]LogTexture: Display: Building textures: Texture2D_293 (BGRA8, 64X64)
+[2018.11.18-17.37.27:734][603]LogTexture: Display: Building textures: Texture2D_294 (BGRA8, 64X64)
+[2018.11.18-17.37.27:850][605]LogTexture: Display: Building textures: Texture2D_295 (BGRA8, 64X64)
+[2018.11.18-17.37.28:194][616]LogTexture: Display: Building textures: Texture2D_296 (BGRA8, 64X64)
+[2018.11.18-17.37.28:617][634]LogTexture: Display: Building textures: Texture2D_297 (BGRA8, 64X64)
+[2018.11.18-17.37.29:117][655]LogTexture: Display: Building textures: Texture2D_298 (BGRA8, 64X64)
+[2018.11.18-17.37.29:531][672]LogTexture: Display: Building textures: Texture2D_299 (BGRA8, 64X64)
+[2018.11.18-17.37.31:064][753]LogTexture: Display: Building textures: Texture2D_300 (BGRA8, 64X64)
+[2018.11.18-17.37.31:347][765]LogTexture: Display: Building textures: Texture2D_301 (BGRA8, 64X64)
+[2018.11.18-17.37.31:479][768]LogTexture: Display: Building textures: Texture2D_302 (BGRA8, 64X64)
+[2018.11.18-17.37.31:593][770]LogTexture: Display: Building textures: Texture2D_303 (BGRA8, 64X64)
+[2018.11.18-17.37.31:656][771]LogTexture: Display: Building textures: Texture2D_304 (BGRA8, 64X64)
+[2018.11.18-17.37.31:732][773]LogTexture: Display: Building textures: Texture2D_305 (BGRA8, 64X64)
+[2018.11.18-17.37.31:771][773]LogTexture: Display: Building textures: Texture2D_306 (BGRA8, 64X64)
+[2018.11.18-17.37.32:597][810]LogTexture: Display: Building textures: Texture2D_307 (BGRA8, 64X64)
+[2018.11.18-17.37.32:632][810]LogTexture: Display: Building textures: Texture2D_308 (BGRA8, 64X64)
+[2018.11.18-17.37.33:196][843]LogTexture: Display: Building textures: Texture2D_309 (BGRA8, 64X64)
+[2018.11.18-17.37.33:346][848]LogTexture: Display: Building textures: Texture2D_310 (BGRA8, 64X64)
+[2018.11.18-17.37.33:508][852]LogTexture: Display: Building textures: Texture2D_311 (BGRA8, 64X64)
+[2018.11.18-17.37.33:636][854]LogTexture: Display: Building textures: Texture2D_312 (BGRA8, 64X64)
+[2018.11.18-17.37.33:677][854]LogTexture: Display: Building textures: Texture2D_313 (BGRA8, 64X64)
+[2018.11.18-17.37.33:914][858]LogTexture: Display: Building textures: Texture2D_314 (BGRA8, 64X64)
+[2018.11.18-17.37.33:961][858]LogTexture: Display: Building textures: Texture2D_315 (BGRA8, 64X64)
+[2018.11.18-17.37.36:240][ 41]LogTexture: Display: Building textures: Texture2D_316 (BGRA8, 64X64)
+[2018.11.18-17.37.36:274][ 41]LogTexture: Display: Building textures: Texture2D_317 (BGRA8, 64X64)
+[2018.11.18-17.37.36:653][ 58]LogTexture: Display: Building textures: Texture2D_318 (BGRA8, 64X64)
+[2018.11.18-17.37.36:673][ 58]LogTexture: Display: Building textures: Texture2D_319 (BGRA8, 64X64)
+[2018.11.18-17.37.37:111][ 76]LogTexture: Display: Building textures: Texture2D_320 (BGRA8, 64X64)
+[2018.11.18-17.37.37:149][ 76]LogTexture: Display: Building textures: Texture2D_321 (BGRA8, 64X64)
+[2018.11.18-17.37.37:467][ 89]LogTexture: Display: Building textures: Texture2D_322 (BGRA8, 64X64)
+[2018.11.18-17.37.37:488][ 89]LogTexture: Display: Building textures: Texture2D_323 (BGRA8, 64X64)
+[2018.11.18-17.37.37:806][103]LogTexture: Display: Building textures: Texture2D_324 (BGRA8, 64X64)
+[2018.11.18-17.37.37:866][104]LogTexture: Display: Building textures: Texture2D_325 (BGRA8, 64X64)
+[2018.11.18-17.37.38:138][115]LogTexture: Display: Building textures: Texture2D_326 (BGRA8, 64X64)
+[2018.11.18-17.37.38:158][115]LogTexture: Display: Building textures: Texture2D_327 (BGRA8, 64X64)
+[2018.11.18-17.37.39:453][235]LogTexture: Display: Building textures: Texture2D_328 (BGRA8, 64X64)
+[2018.11.18-17.37.39:499][235]LogTexture: Display: Building textures: Texture2D_329 (BGRA8, 64X64)
+[2018.11.18-17.37.39:522][235]LogTexture: Display: Building textures: Texture2D_330 (BGRA8, 64X64)
+[2018.11.18-17.37.39:623][238]LogTexture: Display: Building textures: Texture2D_331 (BGRA8, 64X64)
+[2018.11.18-17.37.39:853][243]LogTexture: Display: Building textures: Texture2D_332 (BGRA8, 64X64)
+[2018.11.18-17.37.39:958][245]LogTexture: Display: Building textures: Texture2D_333 (BGRA8, 64X64)
+[2018.11.18-17.37.40:044][247]LogTexture: Display: Building textures: Texture2D_334 (BGRA8, 64X64)
+[2018.11.18-17.37.40:133][250]LogTexture: Display: Building textures: Texture2D_335 (BGRA8, 64X64)
+[2018.11.18-17.37.40:258][253]LogTexture: Display: Building textures: Texture2D_336 (BGRA8, 64X64)
+[2018.11.18-17.37.40:380][256]LogTexture: Display: Building textures: Texture2D_337 (BGRA8, 64X64)
+[2018.11.18-17.37.40:499][261]LogTexture: Display: Building textures: Texture2D_338 (BGRA8, 64X64)
+[2018.11.18-17.37.40:948][285]LogTexture: Display: Building textures: Texture2D_339 (BGRA8, 64X64)
+[2018.11.18-17.37.41:911][331]LogTexture: Display: Building textures: Texture2D_340 (BGRA8, 64X64)
+[2018.11.18-17.37.41:947][331]LogTexture: Display: Building textures: Texture2D_341 (BGRA8, 64X64)
+[2018.11.18-17.37.42:164][338]LogTexture: Display: Building textures: Texture2D_342 (BGRA8, 64X64)
+[2018.11.18-17.37.43:073][379]LogTexture: Display: Building textures: Texture2D_343 (BGRA8, 64X64)
+[2018.11.18-17.37.43:188][382]LogTexture: Display: Building textures: Texture2D_344 (BGRA8, 64X64)
+[2018.11.18-17.37.43:744][404]LogTexture: Display: Building textures: Texture2D_345 (BGRA8, 64X64)
+[2018.11.18-17.37.44:289][435]LogTexture: Display: Building textures: Texture2D_346 (BGRA8, 64X64)
+[2018.11.18-17.37.44:578][445]LogTexture: Display: Building textures: Texture2D_347 (BGRA8, 64X64)
+[2018.11.18-17.37.44:876][454]LogTexture: Display: Building textures: Texture2D_348 (BGRA8, 64X64)
+[2018.11.18-17.37.45:393][473]LogTexture: Display: Building textures: Texture2D_349 (BGRA8, 64X64)
+[2018.11.18-17.37.45:439][473]LogTexture: Display: Building textures: Texture2D_350 (BGRA8, 64X64)
+[2018.11.18-17.37.46:901][607]LogTexture: Display: Building textures: Texture2D_351 (BGRA8, 64X64)
+[2018.11.18-17.37.46:928][607]LogTexture: Display: Building textures: Texture2D_352 (BGRA8, 64X64)
+[2018.11.18-17.37.46:962][607]LogTexture: Display: Building textures: Texture2D_353 (BGRA8, 64X64)
+[2018.11.18-17.37.47:024][607]LogTexture: Display: Building textures: Texture2D_354 (BGRA8, 64X64)
+[2018.11.18-17.37.47:214][616]LogTexture: Display: Building textures: Texture2D_355 (BGRA8, 64X64)
+[2018.11.18-17.37.47:568][637]LogTexture: Display: Building textures: Texture2D_356 (BGRA8, 64X64)
+[2018.11.18-17.37.48:063][665]LogTexture: Display: Building textures: Texture2D_357 (BGRA8, 64X64)
+[2018.11.18-17.37.48:143][667]LogTexture: Display: Building textures: Texture2D_358 (BGRA8, 64X64)
+[2018.11.18-17.37.48:459][682]LogTexture: Display: Building textures: Texture2D_359 (BGRA8, 64X64)
+[2018.11.18-17.37.48:509][682]LogTexture: Display: Building textures: Texture2D_360 (BGRA8, 64X64)
+[2018.11.18-17.37.48:587][683]LogTexture: Display: Building textures: Texture2D_361 (BGRA8, 64X64)
+[2018.11.18-17.37.48:776][690]LogTexture: Display: Building textures: Texture2D_362 (BGRA8, 64X64)
+[2018.11.18-17.37.48:848][692]LogTexture: Display: Building textures: Texture2D_363 (BGRA8, 64X64)
+[2018.11.18-17.37.48:878][692]LogTexture: Display: Building textures: Texture2D_364 (BGRA8, 64X64)
+[2018.11.18-17.37.48:974][693]LogTexture: Display: Building textures: Texture2D_365 (BGRA8, 64X64)
+[2018.11.18-17.37.49:073][694]LogTexture: Display: Building textures: Texture2D_366 (BGRA8, 64X64)
+[2018.11.18-17.37.49:100][694]LogTexture: Display: Building textures: Texture2D_367 (BGRA8, 64X64)
+[2018.11.18-17.37.50:564][757]LogTexture: Display: Building textures: Texture2D_368 (BGRA8, 64X64)
+[2018.11.18-17.37.50:972][770]LogTexture: Display: Building textures: Texture2D_369 (BGRA8, 64X64)
+[2018.11.18-17.37.51:075][772]LogTexture: Display: Building textures: Texture2D_370 (BGRA8, 64X64)
+[2018.11.18-17.37.51:195][776]LogTexture: Display: Building textures: Texture2D_371 (BGRA8, 64X64)
+[2018.11.18-17.37.53:494][860]LogTexture: Display: Building textures: Texture2D_372 (BGRA8, 64X64)
+[2018.11.18-17.37.53:578][861]LogTexture: Display: Building textures: Texture2D_373 (BGRA8, 64X64)
+[2018.11.18-17.37.53:661][861]LogTexture: Display: Building textures: Texture2D_374 (BGRA8, 64X64)
+[2018.11.18-17.37.54:373][882]LogTexture: Display: Building textures: Texture2D_375 (BGRA8, 64X64)
+[2018.11.18-17.37.55:068][921]LogTexture: Display: Building textures: Texture2D_376 (BGRA8, 64X64)
+[2018.11.18-17.37.56:005][954]LogTexture: Display: Building textures: Texture2D_377 (BGRA8, 64X64)
+[2018.11.18-17.37.56:038][954]LogTexture: Display: Building textures: Texture2D_378 (BGRA8, 64X64)
+[2018.11.18-17.37.57:748][ 93]LogTexture: Display: Building textures: Texture2D_379 (BGRA8, 64X64)
+[2018.11.18-17.37.57:778][ 93]LogTexture: Display: Building textures: Texture2D_380 (BGRA8, 64X64)
+[2018.11.18-17.37.58:100][107]LogTexture: Display: Building textures: Texture2D_381 (BGRA8, 64X64)
+[2018.11.18-17.37.58:151][108]LogTexture: Display: Building textures: Texture2D_382 (BGRA8, 64X64)
+[2018.11.18-17.37.58:191][108]LogTexture: Display: Building textures: Texture2D_383 (BGRA8, 64X64)
+[2018.11.18-17.37.59:163][161]LogTexture: Display: Building textures: Texture2D_384 (BGRA8, 64X64)
+[2018.11.18-17.37.59:200][161]LogTexture: Display: Building textures: Texture2D_385 (BGRA8, 64X64)
+[2018.11.18-17.37.59:357][166]LogTexture: Display: Building textures: Texture2D_386 (BGRA8, 64X64)
+[2018.11.18-17.37.59:383][166]LogTexture: Display: Building textures: Texture2D_387 (BGRA8, 64X64)
+[2018.11.18-17.38.00:244][212]LogTexture: Display: Building textures: Texture2D_388 (BGRA8, 64X64)
+[2018.11.18-17.38.00:315][213]LogTexture: Display: Building textures: Texture2D_389 (BGRA8, 64X64)
+[2018.11.18-17.38.00:388][215]LogTexture: Display: Building textures: Texture2D_390 (BGRA8, 64X64)
+[2018.11.18-17.38.00:493][217]LogTexture: Display: Building textures: Texture2D_391 (BGRA8, 64X64)
+[2018.11.18-17.38.00:594][220]LogTexture: Display: Building textures: Texture2D_392 (BGRA8, 64X64)
+[2018.11.18-17.38.00:624][220]LogTexture: Display: Building textures: Texture2D_393 (BGRA8, 64X64)
+[2018.11.18-17.38.01:732][332]LogTexture: Display: Building textures: Texture2D_394 (BGRA8, 64X64)
+[2018.11.18-17.38.01:892][342]LogTexture: Display: Building textures: Texture2D_395 (BGRA8, 64X64)
+[2018.11.18-17.38.02:379][366]LogTexture: Display: Building textures: Texture2D_396 (BGRA8, 64X64)
+[2018.11.18-17.38.03:006][400]LogTexture: Display: Building textures: Texture2D_397 (BGRA8, 64X64)
+[2018.11.18-17.38.03:549][425]LogTexture: Display: Building textures: Texture2D_398 (BGRA8, 64X64)
+[2018.11.18-17.38.03:634][426]LogTexture: Display: Building textures: Texture2D_399 (BGRA8, 64X64)
+[2018.11.18-17.38.03:664][426]LogTexture: Display: Building textures: Texture2D_400 (BGRA8, 64X64)
+[2018.11.18-17.38.03:776][427]LogTexture: Display: Building textures: Texture2D_401 (BGRA8, 64X64)
+[2018.11.18-17.38.04:654][463]LogTexture: Display: Building textures: Texture2D_402 (BGRA8, 64X64)
+[2018.11.18-17.38.04:824][469]LogTexture: Display: Building textures: Texture2D_403 (BGRA8, 64X64)
+[2018.11.18-17.38.04:846][469]LogTexture: Display: Building textures: Texture2D_404 (BGRA8, 64X64)
+[2018.11.18-17.38.05:449][503]LogTexture: Display: Building textures: Texture2D_405 (BGRA8, 64X64)
+[2018.11.18-17.38.05:558][504]LogTexture: Display: Building textures: Texture2D_406 (BGRA8, 64X64)
+[2018.11.18-17.38.05:580][504]LogTexture: Display: Building textures: Texture2D_407 (BGRA8, 64X64)
+[2018.11.18-17.38.07:026][537]LogTexture: Display: Building textures: Texture2D_408 (BGRA8, 64X64)
+[2018.11.18-17.38.07:057][537]LogTexture: Display: Building textures: Texture2D_409 (BGRA8, 64X64)
+[2018.11.18-17.38.07:248][546]LogTexture: Display: Building textures: Texture2D_410 (BGRA8, 64X64)
+[2018.11.18-17.38.07:318][547]LogTexture: Display: Building textures: Texture2D_411 (BGRA8, 64X64)
+[2018.11.18-17.38.07:340][547]LogTexture: Display: Building textures: Texture2D_412 (BGRA8, 64X64)
+[2018.11.18-17.38.08:095][584]LogTexture: Display: Building textures: Texture2D_413 (BGRA8, 64X64)
+[2018.11.18-17.38.14:503][868]LogTexture: Display: Building textures: Texture2D_414 (BGRA8, 64X64)
+[2018.11.18-17.38.19:647][385]LogTexture: Display: Building textures: Texture2D_415 (BGRA8, 64X64)
+[2018.11.18-17.38.19:725][386]LogTexture: Display: Building textures: Texture2D_416 (BGRA8, 64X64)
+[2018.11.18-17.38.19:750][386]LogTexture: Display: Building textures: Texture2D_417 (BGRA8, 64X64)
+[2018.11.18-17.38.20:279][406]LogTexture: Display: Building textures: Texture2D_418 (BGRA8, 64X64)
+[2018.11.18-17.38.21:173][451]LogTexture: Display: Building textures: Texture2D_419 (BGRA8, 64X64)
+[2018.11.18-17.38.21:557][463]LogTexture: Display: Building textures: Texture2D_420 (BGRA8, 64X64)
+[2018.11.18-17.38.23:108][529]LogTexture: Display: Building textures: Texture2D_421 (BGRA8, 64X64)
+[2018.11.18-17.38.23:861][569]LogTexture: Display: Building textures: Texture2D_422 (BGRA8, 64X64)
+[2018.11.18-17.38.23:911][569]LogTexture: Display: Building textures: Texture2D_423 (BGRA8, 64X64)
+[2018.11.18-17.38.24:526][601]LogTexture: Display: Building textures: Texture2D_424 (BGRA8, 64X64)
+[2018.11.18-17.38.25:456][645]LogTexture: Display: Building textures: Texture2D_425 (BGRA8, 64X64)
+[2018.11.18-17.38.25:861][665]LogTexture: Display: Building textures: Texture2D_426 (BGRA8, 64X64)
+[2018.11.18-17.38.26:310][681]LogTexture: Display: Building textures: Texture2D_427 (BGRA8, 64X64)
+[2018.11.18-17.38.26:848][704]LogTexture: Display: Building textures: Texture2D_428 (BGRA8, 64X64)
+[2018.11.18-17.38.28:984][827]LogTexture: Display: Building textures: Texture2D_429 (BGRA8, 64X64)
+[2018.11.18-17.38.29:022][827]LogTexture: Display: Building textures: Texture2D_430 (BGRA8, 64X64)
+[2018.11.18-17.38.29:066][827]LogTexture: Display: Building textures: Texture2D_431 (BGRA8, 64X64)
+[2018.11.18-17.38.29:087][827]LogTexture: Display: Building textures: Texture2D_432 (BGRA8, 64X64)
+[2018.11.18-17.38.29:280][834]LogTexture: Display: Building textures: Texture2D_433 (BGRA8, 64X64)
+[2018.11.18-17.38.34:121][ 70]LogTexture: Display: Building textures: Texture2D_434 (BGRA8, 64X64)
+[2018.11.18-17.40.22:887][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.40.36:253][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.40.57:156][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.41.37:941][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.42.02:806][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.42.47:705][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.43.55:195][656]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.43.59:137][656]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2018.11.18-17.43.59:197][656]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2018.11.18-17.43.59:198][656]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2018.11.18-17.43.59:249][656]LogTexture: Display: Building textures: Texture2D_376 (BGRA8, 64X64)
+[2018.11.18-17.43.59:250][656]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2018.11.18-17.43.59:298][656]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2018.11.18-17.43.59:354][656]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2018.11.18-17.43.59:395][656]LogTexture: Display: Building textures: Texture2D_295 (BGRA8, 64X64)
+[2018.11.18-17.43.59:396][656]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2018.11.18-17.43.59:421][656]LogTexture: Display: Building textures: Texture2D_414 (BGRA8, 64X64)
+[2018.11.18-17.43.59:422][656]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2018.11.18-17.43.59:423][656]LogTexture: Display: Building textures: Texture2D_325 (BGRA8, 64X64)
+[2018.11.18-17.43.59:424][656]LogTexture: Display: Building textures: Texture2D_233 (BGRA8, 64X64)
+[2018.11.18-17.43.59:424][656]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2018.11.18-17.43.59:474][656]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2018.11.18-17.43.59:551][656]LogTexture: Display: Building textures: Texture2D_429 (BGRA8, 64X64)
+[2018.11.18-17.43.59:552][656]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2018.11.18-17.43.59:573][656]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2018.11.18-17.43.59:648][656]LogTexture: Display: Building textures: Texture2D_409 (BGRA8, 64X64)
+[2018.11.18-17.43.59:727][656]LogTexture: Display: Building textures: Texture2D_410 (BGRA8, 64X64)
+[2018.11.18-17.43.59:968][656]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2018.11.18-17.44.00:026][656]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2018.11.18-17.44.00:027][656]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2018.11.18-17.44.00:050][656]LogTexture: Display: Building textures: Texture2D_377 (BGRA8, 64X64)
+[2018.11.18-17.44.00:050][656]LogTexture: Display: Building textures: Texture2D_375 (BGRA8, 64X64)
+[2018.11.18-17.44.00:051][656]LogTexture: Display: Building textures: Texture2D_372 (BGRA8, 64X64)
+[2018.11.18-17.44.00:074][656]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2018.11.18-17.44.00:075][656]LogTexture: Display: Building textures: Texture2D_373 (BGRA8, 64X64)
+[2018.11.18-17.44.00:157][656]LogTexture: Display: Building textures: Texture2D_374 (BGRA8, 64X64)
+[2018.11.18-17.44.00:201][656]LogTexture: Display: Building textures: Texture2D_379 (BGRA8, 64X64)
+[2018.11.18-17.44.00:294][656]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2018.11.18-17.44.00:295][656]LogTexture: Display: Building textures: Texture2D_382 (BGRA8, 64X64)
+[2018.11.18-17.44.00:334][656]LogTexture: Display: Building textures: Texture2D_396 (BGRA8, 64X64)
+[2018.11.18-17.44.00:335][656]LogTexture: Display: Building textures: Texture2D_395 (BGRA8, 64X64)
+[2018.11.18-17.44.00:335][656]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2018.11.18-17.44.00:594][656]LogTexture: Display: Building textures: Texture2D_398 (BGRA8, 64X64)
+[2018.11.18-17.44.00:599][656]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2018.11.18-17.44.00:601][656]LogTexture: Display: Building textures: Texture2D_411 (BGRA8, 64X64)
+[2018.11.18-17.44.00:625][656]LogTexture: Display: Building textures: Texture2D_408 (BGRA8, 64X64)
+[2018.11.18-17.44.00:786][656]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2018.11.18-17.44.00:787][656]LogTexture: Display: Building textures: Texture2D_407 (BGRA8, 64X64)
+[2018.11.18-17.44.00:788][656]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2018.11.18-17.44.00:963][656]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2018.11.18-17.44.00:965][656]LogTexture: Display: Building textures: Texture2D_363 (BGRA8, 64X64)
+[2018.11.18-17.44.00:966][656]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2018.11.18-17.44.01:179][656]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2018.11.18-17.44.01:183][656]LogTexture: Display: Building textures: Texture2D_386 (BGRA8, 64X64)
+[2018.11.18-17.44.01:212][656]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2018.11.18-17.44.01:214][656]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2018.11.18-17.44.01:260][656]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2018.11.18-17.44.01:314][656]LogTexture: Display: Building textures: Texture2D_413 (BGRA8, 64X64)
+[2018.11.18-17.44.01:315][656]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2018.11.18-17.44.01:315][656]LogTexture: Display: Building textures: Texture2D_412 (BGRA8, 64X64)
+[2018.11.18-17.44.01:316][656]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2018.11.18-17.44.01:393][656]LogTexture: Display: Building textures: Texture2D_406 (BGRA8, 64X64)
+[2018.11.18-17.44.01:395][656]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2018.11.18-17.44.01:396][656]LogTexture: Display: Building textures: Texture2D_400 (BGRA8, 64X64)
+[2018.11.18-17.44.01:396][656]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2018.11.18-17.44.01:397][656]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2018.11.18-17.44.01:397][656]LogTexture: Display: Building textures: Texture2D_368 (BGRA8, 64X64)
+[2018.11.18-17.44.01:414][656]LogTexture: Display: Building textures: Texture2D_365 (BGRA8, 64X64)
+[2018.11.18-17.44.01:461][656]LogTexture: Display: Building textures: Texture2D_366 (BGRA8, 64X64)
+[2018.11.18-17.44.01:462][656]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2018.11.18-17.44.01:488][656]LogTexture: Display: Building textures: Texture2D_391 (BGRA8, 64X64)
+[2018.11.18-17.44.01:489][656]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2018.11.18-17.44.01:490][656]LogTexture: Display: Building textures: Texture2D_397 (BGRA8, 64X64)
+[2018.11.18-17.44.01:513][656]LogTexture: Display: Building textures: Texture2D_404 (BGRA8, 64X64)
+[2018.11.18-17.44.01:514][656]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2018.11.18-17.44.01:515][656]LogTexture: Display: Building textures: Texture2D_405 (BGRA8, 64X64)
+[2018.11.18-17.44.01:515][656]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2018.11.18-17.44.01:516][656]LogTexture: Display: Building textures: Texture2D_335 (BGRA8, 64X64)
+[2018.11.18-17.44.01:516][656]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2018.11.18-17.44.01:517][656]LogTexture: Display: Building textures: Texture2D_357 (BGRA8, 64X64)
+[2018.11.18-17.44.01:518][656]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2018.11.18-17.44.01:518][656]LogTexture: Display: Building textures: Texture2D_367 (BGRA8, 64X64)
+[2018.11.18-17.44.01:562][656]LogTexture: Display: Building textures: Texture2D_378 (BGRA8, 64X64)
+[2018.11.18-17.44.01:563][656]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2018.11.18-17.44.01:563][656]LogTexture: Display: Building textures: Texture2D_381 (BGRA8, 64X64)
+[2018.11.18-17.44.01:608][656]LogTexture: Display: Building textures: Texture2D_384 (BGRA8, 64X64)
+[2018.11.18-17.44.01:649][656]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2018.11.18-17.44.01:675][656]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2018.11.18-17.44.01:676][656]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2018.11.18-17.44.01:677][656]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2018.11.18-17.44.01:712][656]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2018.11.18-17.44.01:713][656]LogTexture: Display: Building textures: Texture2D_336 (BGRA8, 64X64)
+[2018.11.18-17.44.01:770][656]LogTexture: Display: Building textures: Texture2D_364 (BGRA8, 64X64)
+[2018.11.18-17.44.01:796][656]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2018.11.18-17.44.01:820][656]LogTexture: Display: Building textures: Texture2D_380 (BGRA8, 64X64)
+[2018.11.18-17.44.01:857][656]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2018.11.18-17.44.01:858][656]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 64X64)
+[2018.11.18-17.44.01:858][656]LogTexture: Display: Building textures: Texture2D_388 (BGRA8, 64X64)
+[2018.11.18-17.44.01:892][656]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2018.11.18-17.44.01:935][656]LogTexture: Display: Building textures: Texture2D_389 (BGRA8, 64X64)
+[2018.11.18-17.44.01:936][656]LogTexture: Display: Building textures: Texture2D_392 (BGRA8, 64X64)
+[2018.11.18-17.44.01:979][656]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2018.11.18-17.44.01:980][656]LogTexture: Display: Building textures: Texture2D_399 (BGRA8, 64X64)
+[2018.11.18-17.44.02:044][656]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2018.11.18-17.44.02:046][656]LogTexture: Display: Building textures: Texture2D_401 (BGRA8, 64X64)
+[2018.11.18-17.44.02:069][656]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2018.11.18-17.44.02:069][656]LogTexture: Display: Building textures: Texture2D_370 (BGRA8, 64X64)
+[2018.11.18-17.44.02:098][656]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2018.11.18-17.44.02:098][656]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 64X64)
+[2018.11.18-17.44.02:136][656]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2018.11.18-17.44.02:201][656]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2018.11.18-17.44.02:202][656]LogTexture: Display: Building textures: Texture2D_385 (BGRA8, 64X64)
+[2018.11.18-17.44.02:271][656]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 64X64)
+[2018.11.18-17.44.02:440][656]LogTexture: Display: Building textures: Texture2D_387 (BGRA8, 64X64)
+[2018.11.18-17.44.02:441][656]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 64X64)
+[2018.11.18-17.44.02:442][656]LogTexture: Display: Building textures: Texture2D_390 (BGRA8, 64X64)
+[2018.11.18-17.44.02:443][656]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 64X64)
+[2018.11.18-17.44.02:445][656]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2018.11.18-17.44.02:446][656]LogTexture: Display: Building textures: Texture2D_402 (BGRA8, 64X64)
+[2018.11.18-17.44.02:447][656]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 64X64)
+[2018.11.18-17.44.02:448][656]LogTexture: Display: Building textures: Texture2D_371 (BGRA8, 64X64)
+[2018.11.18-17.44.02:449][656]LogTexture: Display: Building textures: Texture2D_362 (BGRA8, 64X64)
+[2018.11.18-17.44.02:495][656]LogTexture: Display: Building textures: Texture2D_361 (BGRA8, 64X64)
+[2018.11.18-17.44.02:497][656]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 64X64)
+[2018.11.18-17.44.02:497][656]LogTexture: Display: Building textures: Texture2D_383 (BGRA8, 64X64)
+[2018.11.18-17.44.02:498][656]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2018.11.18-17.44.02:538][656]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 64X64)
+[2018.11.18-17.44.02:555][656]LogTexture: Display: Building textures: Texture2D_393 (BGRA8, 64X64)
+[2018.11.18-17.44.02:556][656]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 64X64)
+[2018.11.18-17.44.02:611][656]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2018.11.18-17.44.02:685][656]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.11.18-17.44.02:712][656]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 64X64)
+[2018.11.18-17.44.02:712][656]LogTexture: Display: Building textures: Texture2D_358 (BGRA8, 64X64)
+[2018.11.18-17.44.02:713][656]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2018.11.18-17.44.02:714][656]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.11.18-17.44.02:732][656]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2018.11.18-17.44.02:733][656]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2018.11.18-17.44.02:767][656]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2018.11.18-17.44.02:803][656]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2018.11.18-17.44.02:824][656]LogTexture: Display: Building textures: Texture2D_394 (BGRA8, 64X64)
+[2018.11.18-17.44.02:825][656]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 64X64)
+[2018.11.18-17.44.02:868][656]LogTexture: Display: Building textures: Texture2D_403 (BGRA8, 64X64)
+[2018.11.18-17.44.02:868][656]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 64X64)
+[2018.11.18-17.44.02:869][656]LogTexture: Display: Building textures: Texture2D_369 (BGRA8, 64X64)
+[2018.11.18-17.44.02:869][656]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2018.11.18-17.44.02:875][656]LogTexture: Display: Building textures: Texture2D_359 (BGRA8, 64X64)
+[2018.11.18-17.44.02:892][656]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 64X64)
+[2018.11.18-17.44.02:942][656]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2018.11.18-17.44.02:987][656]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2018.11.18-17.44.03:001][656]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2018.11.18-17.44.03:208][656]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2018.11.18-17.44.03:211][656]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2018.11.18-17.44.03:212][656]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2018.11.18-17.44.03:325][656]LogTexture: Display: Building textures: Texture2D_350 (BGRA8, 64X64)
+[2018.11.18-17.44.03:326][656]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 64X64)
+[2018.11.18-17.44.03:789][656]LogTexture: Display: Building textures: Texture2D_356 (BGRA8, 64X64)
+[2018.11.18-17.44.03:894][656]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2018.11.18-17.44.03:895][656]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2018.11.18-17.44.03:896][656]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 64X64)
+[2018.11.18-17.44.03:921][656]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2018.11.18-17.44.04:008][656]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2018.11.18-17.44.04:039][656]LogTexture: Display: Building textures: Texture2D_299 (BGRA8, 64X64)
+[2018.11.18-17.44.04:040][656]LogTexture: Display: Building textures: Texture2D_298 (BGRA8, 64X64)
+[2018.11.18-17.44.04:040][656]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2018.11.18-17.44.04:041][656]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 64X64)
+[2018.11.18-17.44.04:041][656]LogTexture: Display: Building textures: Texture2D_348 (BGRA8, 64X64)
+[2018.11.18-17.44.04:091][656]LogTexture: Display: Building textures: Texture2D_355 (BGRA8, 64X64)
+[2018.11.18-17.44.04:092][656]LogTexture: Display: Building textures: Texture2D_351 (BGRA8, 64X64)
+[2018.11.18-17.44.04:092][656]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 64X64)
+[2018.11.18-17.44.04:093][656]LogTexture: Display: Building textures: Texture2D_360 (BGRA8, 64X64)
+[2018.11.18-17.44.04:094][656]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 64X64)
+[2018.11.18-17.44.04:094][656]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 64X64)
+[2018.11.18-17.44.04:095][656]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2018.11.18-17.44.04:152][656]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2018.11.18-17.44.04:153][656]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2018.11.18-17.44.04:154][656]LogTexture: Display: Building textures: Texture2D_296 (BGRA8, 64X64)
+[2018.11.18-17.44.04:155][656]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2018.11.18-17.44.04:310][656]LogTexture: Display: Building textures: Texture2D_297 (BGRA8, 64X64)
+[2018.11.18-17.44.04:344][656]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2018.11.18-17.44.04:453][656]LogTexture: Display: Building textures: Texture2D_353 (BGRA8, 64X64)
+[2018.11.18-17.44.04:988][656]LogTexture: Display: Building textures: Texture2D_352 (BGRA8, 64X64)
+[2018.11.18-17.44.04:992][656]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 64X64)
+[2018.11.18-17.44.04:993][656]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2018.11.18-17.44.04:995][656]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2018.11.18-17.44.04:996][656]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2018.11.18-17.44.04:997][656]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2018.11.18-17.44.04:998][656]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 64X64)
+[2018.11.18-17.44.04:999][656]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2018.11.18-17.44.05:001][656]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 64X64)
+[2018.11.18-17.44.05:002][656]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 64X64)
+[2018.11.18-17.44.05:003][656]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 64X64)
+[2018.11.18-17.44.05:004][656]LogTexture: Display: Building textures: Texture2D_349 (BGRA8, 64X64)
+[2018.11.18-17.44.05:005][656]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 64X64)
+[2018.11.18-17.44.05:255][656]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 64X64)
+[2018.11.18-17.44.05:257][656]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 64X64)
+[2018.11.18-17.44.05:652][656]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 64X64)
+[2018.11.18-17.44.05:656][656]LogTexture: Display: Building textures: Texture2D_290 (BGRA8, 64X64)
+[2018.11.18-17.44.05:657][656]LogTexture: Display: Building textures: Texture2D_291 (BGRA8, 64X64)
+[2018.11.18-17.44.05:659][656]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 64X64)
+[2018.11.18-17.44.05:660][656]LogTexture: Display: Building textures: Texture2D_292 (BGRA8, 64X64)
+[2018.11.18-17.44.06:166][656]LogTexture: Display: Building textures: Texture2D_294 (BGRA8, 64X64)
+[2018.11.18-17.44.06:217][656]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2018.11.18-17.44.06:218][656]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 64X64)
+[2018.11.18-17.44.06:479][656]LogTexture: Display: Building textures: Texture2D_333 (BGRA8, 64X64)
+[2018.11.18-17.44.06:482][656]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 64X64)
+[2018.11.18-17.44.06:484][656]LogTexture: Display: Building textures: Texture2D_354 (BGRA8, 64X64)
+[2018.11.18-17.44.06:485][656]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 64X64)
+[2018.11.18-17.44.06:591][656]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 64X64)
+[2018.11.18-17.44.06:592][656]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 64X64)
+[2018.11.18-17.44.07:129][656]LogTexture: Display: Building textures: Texture2D_279 (BGRA8, 64X64)
+[2018.11.18-17.44.07:135][656]LogTexture: Display: Building textures: Texture2D_280 (BGRA8, 64X64)
+[2018.11.18-17.44.07:136][656]LogTexture: Display: Building textures: Texture2D_141 (BGRA8, 64X64)
+[2018.11.18-17.44.07:225][656]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 64X64)
+[2018.11.18-17.44.07:226][656]LogTexture: Display: Building textures: Texture2D_165 (BGRA8, 64X64)
+[2018.11.18-17.44.07:226][656]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 64X64)
+[2018.11.18-17.44.07:227][656]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 64X64)
+[2018.11.18-17.44.07:227][656]LogTexture: Display: Building textures: Texture2D_332 (BGRA8, 64X64)
+[2018.11.18-17.44.07:228][656]LogTexture: Display: Building textures: Texture2D_347 (BGRA8, 64X64)
+[2018.11.18-17.44.07:228][656]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 64X64)
+[2018.11.18-17.44.07:285][656]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 64X64)
+[2018.11.18-17.44.07:286][656]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2018.11.18-17.44.07:406][656]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 64X64)
+[2018.11.18-17.44.07:410][656]LogTexture: Display: Building textures: Texture2D_281 (BGRA8, 64X64)
+[2018.11.18-17.44.07:434][656]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 64X64)
+[2018.11.18-17.44.07:435][656]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 64X64)
+[2018.11.18-17.44.07:497][656]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 64X64)
+[2018.11.18-17.44.07:559][656]LogTexture: Display: Building textures: Texture2D_277 (BGRA8, 64X64)
+[2018.11.18-17.44.07:560][656]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 64X64)
+[2018.11.18-17.44.07:594][656]LogTexture: Display: Building textures: Texture2D_275 (BGRA8, 64X64)
+[2018.11.18-17.44.07:634][656]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 64X64)
+[2018.11.18-17.44.07:669][656]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.11.18-17.44.07:683][656]LogTexture: Display: Building textures: Texture2D_346 (BGRA8, 64X64)
+[2018.11.18-17.44.07:710][656]LogTexture: Display: Building textures: Texture2D_337 (BGRA8, 64X64)
+[2018.11.18-17.44.07:711][656]LogTexture: Display: Building textures: Texture2D_338 (BGRA8, 64X64)
+[2018.11.18-17.44.07:711][656]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 64X64)
+[2018.11.18-17.44.07:733][656]LogTexture: Display: Building textures: Texture2D_146 (BGRA8, 64X64)
+[2018.11.18-17.44.07:734][656]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-17.44.07:819][656]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 64X64)
+[2018.11.18-17.44.07:880][656]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 64X64)
+[2018.11.18-17.44.07:978][656]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.11.18-17.44.07:992][656]LogTexture: Display: Building textures: Texture2D_276 (BGRA8, 64X64)
+[2018.11.18-17.44.07:992][656]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.11.18-17.44.08:007][656]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 64X64)
+[2018.11.18-17.44.08:007][656]LogTexture: Display: Building textures: Texture2D_288 (BGRA8, 64X64)
+[2018.11.18-17.44.08:080][656]LogTexture: Display: Building textures: Texture2D_273 (BGRA8, 64X64)
+[2018.11.18-17.44.08:083][656]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 64X64)
+[2018.11.18-17.44.08:084][656]LogTexture: Display: Building textures: Texture2D_285 (BGRA8, 64X64)
+[2018.11.18-17.44.08:510][656]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 64X64)
+[2018.11.18-17.44.08:512][656]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 64X64)
+[2018.11.18-17.44.08:683][656]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 64X64)
+[2018.11.18-17.44.08:684][656]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 64X64)
+[2018.11.18-17.44.08:685][656]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 64X64)
+[2018.11.18-17.44.08:686][656]LogTexture: Display: Building textures: Texture2D_289 (BGRA8, 64X64)
+[2018.11.18-17.44.08:687][656]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 64X64)
+[2018.11.18-17.44.08:688][656]LogTexture: Display: Building textures: Texture2D_173 (BGRA8, 64X64)
+[2018.11.18-17.44.08:760][656]LogTexture: Display: Building textures: Texture2D_274 (BGRA8, 64X64)
+[2018.11.18-17.44.08:791][656]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 64X64)
+[2018.11.18-17.44.09:047][656]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2018.11.18-17.44.09:059][656]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 64X64)
+[2018.11.18-17.44.09:059][656]LogTexture: Display: Building textures: Texture2D_342 (BGRA8, 64X64)
+[2018.11.18-17.44.09:060][656]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 64X64)
+[2018.11.18-17.44.09:140][656]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 64X64)
+[2018.11.18-17.44.09:157][656]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 64X64)
+[2018.11.18-17.44.09:157][656]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 64X64)
+[2018.11.18-17.44.09:158][656]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 64X64)
+[2018.11.18-17.44.09:159][656]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 64X64)
+[2018.11.18-17.44.09:160][656]LogTexture: Display: Building textures: Texture2D_287 (BGRA8, 64X64)
+[2018.11.18-17.44.09:177][656]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 64X64)
+[2018.11.18-17.44.09:177][656]LogTexture: Display: Building textures: Texture2D_282 (BGRA8, 64X64)
+[2018.11.18-17.44.09:178][656]LogTexture: Display: Building textures: Texture2D_168 (BGRA8, 64X64)
+[2018.11.18-17.44.09:179][656]LogTexture: Display: Building textures: Texture2D_340 (BGRA8, 64X64)
+[2018.11.18-17.44.09:180][656]LogTexture: Display: Building textures: Texture2D_334 (BGRA8, 64X64)
+[2018.11.18-17.44.09:180][656]LogTexture: Display: Building textures: Texture2D_169 (BGRA8, 64X64)
+[2018.11.18-17.44.09:191][656]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 64X64)
+[2018.11.18-17.44.09:192][656]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 64X64)
+[2018.11.18-17.44.09:192][656]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 64X64)
+[2018.11.18-17.44.09:193][656]LogTexture: Display: Building textures: Texture2D_272 (BGRA8, 64X64)
+[2018.11.18-17.44.09:193][656]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 64X64)
+[2018.11.18-17.44.09:194][656]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 64X64)
+[2018.11.18-17.44.09:194][656]LogTexture: Display: Building textures: Texture2D_175 (BGRA8, 64X64)
+[2018.11.18-17.44.09:229][656]LogTexture: Display: Building textures: Texture2D_283 (BGRA8, 64X64)
+[2018.11.18-17.44.09:258][656]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 64X64)
+[2018.11.18-17.44.09:261][656]LogTexture: Display: Building textures: Texture2D_177 (BGRA8, 64X64)
+[2018.11.18-17.44.09:262][656]LogTexture: Display: Building textures: Texture2D_339 (BGRA8, 64X64)
+[2018.11.18-17.44.09:262][656]LogTexture: Display: Building textures: Texture2D_178 (BGRA8, 64X64)
+[2018.11.18-17.44.09:263][656]LogTexture: Display: Building textures: Texture2D_179 (BGRA8, 64X64)
+[2018.11.18-17.44.09:264][656]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 64X64)
+[2018.11.18-17.44.09:313][656]LogTexture: Display: Building textures: Texture2D_182 (BGRA8, 64X64)
+[2018.11.18-17.44.09:314][656]LogTexture: Display: Building textures: Texture2D_205 (BGRA8, 64X64)
+[2018.11.18-17.44.09:361][656]LogTexture: Display: Building textures: Texture2D_197 (BGRA8, 64X64)
+[2018.11.18-17.44.09:361][656]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 64X64)
+[2018.11.18-17.44.09:362][656]LogTexture: Display: Building textures: Texture2D_345 (BGRA8, 64X64)
+[2018.11.18-17.44.09:362][656]LogTexture: Display: Building textures: Texture2D_341 (BGRA8, 64X64)
+[2018.11.18-17.44.09:363][656]LogTexture: Display: Building textures: Texture2D_184 (BGRA8, 64X64)
+[2018.11.18-17.44.09:438][656]LogTexture: Display: Building textures: Texture2D_185 (BGRA8, 64X64)
+[2018.11.18-17.44.09:439][656]LogTexture: Display: Building textures: Texture2D_186 (BGRA8, 64X64)
+[2018.11.18-17.44.09:440][656]LogTexture: Display: Building textures: Texture2D_187 (BGRA8, 64X64)
+[2018.11.18-17.44.09:440][656]LogTexture: Display: Building textures: Texture2D_188 (BGRA8, 64X64)
+[2018.11.18-17.44.09:441][656]LogTexture: Display: Building textures: Texture2D_284 (BGRA8, 64X64)
+[2018.11.18-17.44.09:480][656]LogTexture: Display: Building textures: Texture2D_190 (BGRA8, 64X64)
+[2018.11.18-17.44.09:509][656]LogTexture: Display: Building textures: Texture2D_191 (BGRA8, 64X64)
+[2018.11.18-17.44.09:510][656]LogTexture: Display: Building textures: Texture2D_293 (BGRA8, 64X64)
+[2018.11.18-17.44.09:511][656]LogTexture: Display: Building textures: Texture2D_331 (BGRA8, 64X64)
+[2018.11.18-17.44.09:511][656]LogTexture: Display: Building textures: Texture2D_192 (BGRA8, 64X64)
+[2018.11.18-17.44.09:512][656]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 64X64)
+[2018.11.18-17.44.09:512][656]LogTexture: Display: Building textures: Texture2D_194 (BGRA8, 64X64)
+[2018.11.18-17.44.09:513][656]LogTexture: Display: Building textures: Texture2D_195 (BGRA8, 64X64)
+[2018.11.18-17.44.09:513][656]LogTexture: Display: Building textures: Texture2D_196 (BGRA8, 64X64)
+[2018.11.18-17.44.09:514][656]LogTexture: Display: Building textures: Texture2D_198 (BGRA8, 64X64)
+[2018.11.18-17.44.09:569][656]LogTexture: Display: Building textures: Texture2D_300 (BGRA8, 64X64)
+[2018.11.18-17.44.09:570][656]LogTexture: Display: Building textures: Texture2D_286 (BGRA8, 64X64)
+[2018.11.18-17.44.09:571][656]LogTexture: Display: Building textures: Texture2D_199 (BGRA8, 64X64)
+[2018.11.18-17.44.09:571][656]LogTexture: Display: Building textures: Texture2D_200 (BGRA8, 64X64)
+[2018.11.18-17.44.09:572][656]LogTexture: Display: Building textures: Texture2D_330 (BGRA8, 64X64)
+[2018.11.18-17.44.09:572][656]LogTexture: Display: Building textures: Texture2D_201 (BGRA8, 64X64)
+[2018.11.18-17.44.09:573][656]LogTexture: Display: Building textures: Texture2D_202 (BGRA8, 64X64)
+[2018.11.18-17.44.09:573][656]LogTexture: Display: Building textures: Texture2D_203 (BGRA8, 64X64)
+[2018.11.18-17.44.09:574][656]LogTexture: Display: Building textures: Texture2D_204 (BGRA8, 64X64)
+[2018.11.18-17.44.09:592][656]LogTexture: Display: Building textures: Texture2D_308 (BGRA8, 64X64)
+[2018.11.18-17.44.09:592][656]LogTexture: Display: Building textures: Texture2D_206 (BGRA8, 64X64)
+[2018.11.18-17.44.09:651][656]LogTexture: Display: Building textures: Texture2D_207 (BGRA8, 64X64)
+[2018.11.18-17.44.09:668][656]LogTexture: Display: Building textures: Texture2D_208 (BGRA8, 64X64)
+[2018.11.18-17.44.09:669][656]LogTexture: Display: Building textures: Texture2D_328 (BGRA8, 64X64)
+[2018.11.18-17.44.09:680][656]LogTexture: Display: Building textures: Texture2D_209 (BGRA8, 64X64)
+[2018.11.18-17.44.09:681][656]LogTexture: Display: Building textures: Texture2D_210 (BGRA8, 64X64)
+[2018.11.18-17.44.09:710][656]LogTexture: Display: Building textures: Texture2D_211 (BGRA8, 64X64)
+[2018.11.18-17.44.09:752][656]LogTexture: Display: Building textures: Texture2D_212 (BGRA8, 64X64)
+[2018.11.18-17.44.09:753][656]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.11.18-17.44.09:767][656]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 64X64)
+[2018.11.18-17.44.09:785][656]LogTexture: Display: Building textures: Texture2D_309 (BGRA8, 64X64)
+[2018.11.18-17.44.09:823][656]LogTexture: Display: Building textures: Texture2D_214 (BGRA8, 64X64)
+[2018.11.18-17.44.09:824][656]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.11.18-17.44.09:838][656]LogTexture: Display: Building textures: Texture2D_306 (BGRA8, 64X64)
+[2018.11.18-17.44.09:839][656]LogTexture: Display: Building textures: Texture2D_301 (BGRA8, 64X64)
+[2018.11.18-17.44.09:840][656]LogTexture: Display: Building textures: Texture2D_215 (BGRA8, 64X64)
+[2018.11.18-17.44.09:855][656]LogTexture: Display: Building textures: Texture2D_415 (BGRA8, 64X64)
+[2018.11.18-17.44.09:856][656]LogTexture: Display: Building textures: Texture2D_216 (BGRA8, 64X64)
+[2018.11.18-17.44.09:857][656]LogTexture: Display: Building textures: Texture2D_343 (BGRA8, 64X64)
+[2018.11.18-17.44.09:857][656]LogTexture: Display: Building textures: Texture2D_329 (BGRA8, 64X64)
+[2018.11.18-17.44.09:884][656]LogTexture: Display: Building textures: Texture2D_217 (BGRA8, 64X64)
+[2018.11.18-17.44.09:915][656]LogTexture: Display: Building textures: Texture2D_326 (BGRA8, 64X64)
+[2018.11.18-17.44.09:915][656]LogTexture: Display: Building textures: Texture2D_323 (BGRA8, 64X64)
+[2018.11.18-17.44.09:941][656]LogTexture: Display: Building textures: Texture2D_218 (BGRA8, 64X64)
+[2018.11.18-17.44.09:942][656]LogTexture: Display: Building textures: Texture2D_322 (BGRA8, 64X64)
+[2018.11.18-17.44.09:942][656]LogTexture: Display: Building textures: Texture2D_321 (BGRA8, 64X64)
+[2018.11.18-17.44.09:943][656]LogTexture: Display: Building textures: Texture2D_219 (BGRA8, 64X64)
+[2018.11.18-17.44.09:943][656]LogTexture: Display: Building textures: Texture2D_318 (BGRA8, 64X64)
+[2018.11.18-17.44.09:944][656]LogTexture: Display: Building textures: Texture2D_316 (BGRA8, 64X64)
+[2018.11.18-17.44.09:944][656]LogTexture: Display: Building textures: Texture2D_220 (BGRA8, 64X64)
+[2018.11.18-17.44.09:945][656]LogTexture: Display: Building textures: Texture2D_315 (BGRA8, 64X64)
+[2018.11.18-17.44.09:945][656]LogTexture: Display: Building textures: Texture2D_312 (BGRA8, 64X64)
+[2018.11.18-17.44.09:946][656]LogTexture: Display: Building textures: Texture2D_221 (BGRA8, 64X64)
+[2018.11.18-17.44.09:946][656]LogTexture: Display: Building textures: Texture2D_307 (BGRA8, 64X64)
+[2018.11.18-17.44.09:947][656]LogTexture: Display: Building textures: Texture2D_222 (BGRA8, 64X64)
+[2018.11.18-17.44.09:947][656]LogTexture: Display: Building textures: Texture2D_305 (BGRA8, 64X64)
+[2018.11.18-17.44.09:986][656]LogTexture: Display: Building textures: Texture2D_302 (BGRA8, 64X64)
+[2018.11.18-17.44.09:987][656]LogTexture: Display: Building textures: Texture2D_223 (BGRA8, 64X64)
+[2018.11.18-17.44.10:029][656]LogTexture: Display: Building textures: Texture2D_224 (BGRA8, 64X64)
+[2018.11.18-17.44.10:030][656]LogTexture: Display: Building textures: Texture2D_225 (BGRA8, 64X64)
+[2018.11.18-17.44.10:030][656]LogTexture: Display: Building textures: Texture2D_324 (BGRA8, 64X64)
+[2018.11.18-17.44.10:031][656]LogTexture: Display: Building textures: Texture2D_226 (BGRA8, 64X64)
+[2018.11.18-17.44.10:064][656]LogTexture: Display: Building textures: Texture2D_320 (BGRA8, 64X64)
+[2018.11.18-17.44.10:065][656]LogTexture: Display: Building textures: Texture2D_227 (BGRA8, 64X64)
+[2018.11.18-17.44.10:065][656]LogTexture: Display: Building textures: Texture2D_228 (BGRA8, 64X64)
+[2018.11.18-17.44.10:066][656]LogTexture: Display: Building textures: Texture2D_314 (BGRA8, 64X64)
+[2018.11.18-17.44.10:104][656]LogTexture: Display: Building textures: Texture2D_313 (BGRA8, 64X64)
+[2018.11.18-17.44.10:106][656]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 64X64)
+[2018.11.18-17.44.10:107][656]LogTexture: Display: Building textures: Texture2D_310 (BGRA8, 64X64)
+[2018.11.18-17.44.10:107][656]LogTexture: Display: Building textures: Texture2D_230 (BGRA8, 64X64)
+[2018.11.18-17.44.10:108][656]LogTexture: Display: Building textures: Texture2D_303 (BGRA8, 64X64)
+[2018.11.18-17.44.10:130][656]LogTexture: Display: Building textures: Texture2D_231 (BGRA8, 64X64)
+[2018.11.18-17.44.10:131][656]LogTexture: Display: Building textures: Texture2D_416 (BGRA8, 64X64)
+[2018.11.18-17.44.10:131][656]LogTexture: Display: Building textures: Texture2D_232 (BGRA8, 64X64)
+[2018.11.18-17.44.10:184][656]LogTexture: Display: Building textures: Texture2D_344 (BGRA8, 64X64)
+[2018.11.18-17.44.10:184][656]LogTexture: Display: Building textures: Texture2D_327 (BGRA8, 64X64)
+[2018.11.18-17.44.10:185][656]LogTexture: Display: Building textures: Texture2D_234 (BGRA8, 64X64)
+[2018.11.18-17.44.10:188][656]LogTexture: Display: Building textures: Texture2D_433 (BGRA8, 64X64)
+[2018.11.18-17.44.10:188][656]LogTexture: Display: Building textures: Texture2D_427 (BGRA8, 64X64)
+[2018.11.18-17.44.10:216][656]LogTexture: Display: Building textures: Texture2D_235 (BGRA8, 64X64)
+[2018.11.18-17.44.10:217][656]LogTexture: Display: Building textures: Texture2D_252 (BGRA8, 64X64)
+[2018.11.18-17.44.10:217][656]LogTexture: Display: Building textures: Texture2D_426 (BGRA8, 64X64)
+[2018.11.18-17.44.10:218][656]LogTexture: Display: Building textures: Texture2D_236 (BGRA8, 64X64)
+[2018.11.18-17.44.10:218][656]LogTexture: Display: Building textures: Texture2D_237 (BGRA8, 64X64)
+[2018.11.18-17.44.10:219][656]LogTexture: Display: Building textures: Texture2D_238 (BGRA8, 64X64)
+[2018.11.18-17.44.10:219][656]LogTexture: Display: Building textures: Texture2D_304 (BGRA8, 64X64)
+[2018.11.18-17.44.10:255][656]LogTexture: Display: Building textures: Texture2D_239 (BGRA8, 64X64)
+[2018.11.18-17.44.10:256][656]LogTexture: Display: Building textures: Texture2D_241 (BGRA8, 64X64)
+[2018.11.18-17.44.10:292][656]LogTexture: Display: Building textures: Texture2D_240 (BGRA8, 64X64)
+[2018.11.18-17.44.10:293][656]LogTexture: Display: Building textures: Texture2D_242 (BGRA8, 64X64)
+[2018.11.18-17.44.10:293][656]LogTexture: Display: Building textures: Texture2D_319 (BGRA8, 64X64)
+[2018.11.18-17.44.10:294][656]LogTexture: Display: Building textures: Texture2D_243 (BGRA8, 64X64)
+[2018.11.18-17.44.10:295][656]LogTexture: Display: Building textures: Texture2D_317 (BGRA8, 64X64)
+[2018.11.18-17.44.10:295][656]LogTexture: Display: Building textures: Texture2D_244 (BGRA8, 64X64)
+[2018.11.18-17.44.10:345][656]LogTexture: Display: Building textures: Texture2D_245 (BGRA8, 64X64)
+[2018.11.18-17.44.10:643][656]LogTexture: Display: Building textures: Texture2D_311 (BGRA8, 64X64)
+[2018.11.18-17.44.10:646][656]LogTexture: Display: Building textures: Texture2D_419 (BGRA8, 64X64)
+[2018.11.18-17.44.10:701][656]LogTexture: Display: Building textures: Texture2D_246 (BGRA8, 64X64)
+[2018.11.18-17.44.10:757][656]LogTexture: Display: Building textures: Texture2D_417 (BGRA8, 64X64)
+[2018.11.18-17.44.10:757][656]LogTexture: Display: Building textures: Texture2D_247 (BGRA8, 64X64)
+[2018.11.18-17.44.10:758][656]LogTexture: Display: Building textures: Texture2D_248 (BGRA8, 64X64)
+[2018.11.18-17.44.10:758][656]LogTexture: Display: Building textures: Texture2D_434 (BGRA8, 64X64)
+[2018.11.18-17.44.10:759][656]LogTexture: Display: Building textures: Texture2D_249 (BGRA8, 64X64)
+[2018.11.18-17.44.10:759][656]LogTexture: Display: Building textures: Texture2D_250 (BGRA8, 64X64)
+[2018.11.18-17.44.10:760][656]LogTexture: Display: Building textures: Texture2D_428 (BGRA8, 64X64)
+[2018.11.18-17.44.10:761][656]LogTexture: Display: Building textures: Texture2D_251 (BGRA8, 64X64)
+[2018.11.18-17.44.10:761][656]LogTexture: Display: Building textures: Texture2D_425 (BGRA8, 64X64)
+[2018.11.18-17.44.10:762][656]LogTexture: Display: Building textures: Texture2D_253 (BGRA8, 64X64)
+[2018.11.18-17.44.10:820][656]LogTexture: Display: Building textures: Texture2D_420 (BGRA8, 64X64)
+[2018.11.18-17.44.10:821][656]LogTexture: Display: Building textures: Texture2D_254 (BGRA8, 64X64)
+[2018.11.18-17.44.10:867][656]LogTexture: Display: Building textures: Texture2D_418 (BGRA8, 64X64)
+[2018.11.18-17.44.10:869][656]LogTexture: Display: Building textures: Texture2D_255 (BGRA8, 64X64)
+[2018.11.18-17.44.10:900][656]LogTexture: Display: Building textures: Texture2D_256 (BGRA8, 64X64)
+[2018.11.18-17.44.10:901][656]LogTexture: Display: Building textures: Texture2D_257 (BGRA8, 64X64)
+[2018.11.18-17.44.10:923][656]LogTexture: Display: Building textures: Texture2D_430 (BGRA8, 64X64)
+[2018.11.18-17.44.10:957][656]LogTexture: Display: Building textures: Texture2D_258 (BGRA8, 64X64)
+[2018.11.18-17.44.10:958][656]LogTexture: Display: Building textures: Texture2D_431 (BGRA8, 64X64)
+[2018.11.18-17.44.10:958][656]LogTexture: Display: Building textures: Texture2D_259 (BGRA8, 64X64)
+[2018.11.18-17.44.10:959][656]LogTexture: Display: Building textures: Texture2D_260 (BGRA8, 64X64)
+[2018.11.18-17.44.10:959][656]LogTexture: Display: Building textures: Texture2D_261 (BGRA8, 64X64)
+[2018.11.18-17.44.10:960][656]LogTexture: Display: Building textures: Texture2D_424 (BGRA8, 64X64)
+[2018.11.18-17.44.10:960][656]LogTexture: Display: Building textures: Texture2D_423 (BGRA8, 64X64)
+[2018.11.18-17.44.10:961][656]LogTexture: Display: Building textures: Texture2D_262 (BGRA8, 64X64)
+[2018.11.18-17.44.10:961][656]LogTexture: Display: Building textures: Texture2D_422 (BGRA8, 64X64)
+[2018.11.18-17.44.11:013][656]LogTexture: Display: Building textures: Texture2D_263 (BGRA8, 64X64)
+[2018.11.18-17.44.11:013][656]LogTexture: Display: Building textures: Texture2D_421 (BGRA8, 64X64)
+[2018.11.18-17.44.11:014][656]LogTexture: Display: Building textures: Texture2D_264 (BGRA8, 64X64)
+[2018.11.18-17.44.11:014][656]LogTexture: Display: Building textures: Texture2D_265 (BGRA8, 64X64)
+[2018.11.18-17.44.11:014][656]LogTexture: Display: Building textures: Texture2D_432 (BGRA8, 64X64)
+[2018.11.18-17.44.11:015][656]LogTexture: Display: Building textures: Texture2D_266 (BGRA8, 64X64)
+[2018.11.18-17.44.11:015][656]LogTexture: Display: Building textures: Texture2D_267 (BGRA8, 64X64)
+[2018.11.18-17.44.11:016][656]LogTexture: Display: Building textures: Texture2D_268 (BGRA8, 64X64)
+[2018.11.18-17.44.11:016][656]LogTexture: Display: Building textures: Texture2D_269 (BGRA8, 64X64)
+[2018.11.18-17.44.11:017][656]LogTexture: Display: Building textures: Texture2D_270 (BGRA8, 64X64)
+[2018.11.18-17.44.11:017][656]LogTexture: Display: Building textures: Texture2D_271 (BGRA8, 64X64)
+[2018.11.18-17.44.17:014][656]LogSavePackage: Save=18847.43ms
+[2018.11.18-17.44.17:014][656]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/BattleTankMap_Auto11CE8BE2042F7330D2E011091BE2529AF.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Autosaves/Game/BattleTankMap_Auto1.umap'
+[2018.11.18-17.44.17:857][656]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Autosaves/Game/BattleTankMap_Auto1.umap
+[2018.11.18-17.44.19:864][656]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BattleTankMap' took 24.299
+[2018.11.18-17.44.19:864][656]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 24.299
+[2018.11.18-17.44.20:547][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LandScape] ([1] browsable assets)...
+[2018.11.18-17.44.22:682][656]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LandScape.LandScape]
+[2018.11.18-17.44.22:682][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/LandScape]
+[2018.11.18-17.44.22:686][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LandScape" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Autosaves/Game/LandScape_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.18-17.44.23:480][656]LogSavePackage: Save=773.95ms
+[2018.11.18-17.44.23:480][656]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/LandScape_Auto18426ECFF4F32EB7DBFAEB7B20A4ACEA8.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Autosaves/Game/LandScape_Auto1.uasset'
+[2018.11.18-17.44.23:483][656]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Autosaves/Game/LandScape_Auto1.uasset
+[2018.11.18-17.44.23:504][656]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BattleTankMap_sharedassets/Grass_LayerInfo] ([1] browsable assets)...
+[2018.11.18-17.44.23:504][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/BattleTankMap_sharedassets/Grass_LayerInfo]
+[2018.11.18-17.44.24:475][656]LogSavePackage: Save=968.34ms
+[2018.11.18-17.44.24:475][656]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Grass_LayerInfo_Auto1C8124DD44A4E6682F18B8B94B6CAEC26.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Autosaves/Game/BattleTankMap_sharedassets/Grass_LayerInfo_Auto1.uasset'
+[2018.11.18-17.44.24:480][656]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Autosaves/Game/BattleTankMap_sharedassets/Grass_LayerInfo_Auto1.uasset
+[2018.11.18-17.44.24:482][656]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BattleTankMap_sharedassets/Dirt_LayerInfo] ([1] browsable assets)...
+[2018.11.18-17.44.24:482][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/BattleTankMap_sharedassets/Dirt_LayerInfo]
+[2018.11.18-17.44.24:809][656]LogSavePackage: Save=4.31ms
+[2018.11.18-17.44.24:809][656]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Dirt_LayerInfo_Auto14899CECC427202F747301EA47A036802.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Autosaves/Game/BattleTankMap_sharedassets/Dirt_LayerInfo_Auto1.uasset'
+[2018.11.18-17.44.24:815][656]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Autosaves/Game/BattleTankMap_sharedassets/Dirt_LayerInfo_Auto1.uasset
+[2018.11.18-17.44.24:816][656]LogFileHelpers: Auto-saving content packages took 4.948
+[2018.11.18-17.51.37:819][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.51.38:498][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleTankMap" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.18-17.51.39:086][  6]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2018.11.18-17.51.39:180][  6]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2018.11.18-17.51.39:180][  6]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2018.11.18-17.51.39:181][  6]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2018.11.18-17.51.39:182][  6]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2018.11.18-17.51.39:183][  6]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2018.11.18-17.51.39:184][  6]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2018.11.18-17.51.39:184][  6]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 64X64)
+[2018.11.18-17.51.39:185][  6]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2018.11.18-17.51.39:186][  6]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 64X64)
+[2018.11.18-17.51.39:186][  6]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2018.11.18-17.51.39:187][  6]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2018.11.18-17.51.39:188][  6]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2018.11.18-17.51.39:189][  6]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2018.11.18-17.51.39:390][  6]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2018.11.18-17.51.42:614][  6]LogSavePackage: Save=3693.65ms
+[2018.11.18-17.51.42:614][  6]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/BattleTankMap420E3D194DEE5E7B2DD950939E58A6EC.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap'
+[2018.11.18-17.51.42:623][  6]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap
+[2018.11.18-17.51.42:855][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleTankMap_BuiltData" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset" SILENT=true
+[2018.11.18-17.51.42:943][  6]LogSavePackage: Save=40.26ms
+[2018.11.18-17.51.42:943][  6]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/BattleTankMap_BuiltDataED4B4DBC48AB6D222B17B29A07D9FE9E.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset'
+[2018.11.18-17.51.42:945][  6]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset
+[2018.11.18-17.57.27:024][ 52]LogSlate: Window 'Save Content' being destroyed
+[2018.11.18-17.57.27:074][ 52]LogSavePackage: Save=6.69ms
+[2018.11.18-17.57.27:074][ 52]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Dirt_LayerInfo84D71A6E4061B63ACE22688247AA2BFB.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_sharedassets/Dirt_LayerInfo.uasset'
+[2018.11.18-17.57.27:079][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_sharedassets/Dirt_LayerInfo.uasset
+[2018.11.18-17.57.27:088][ 52]LogSavePackage: Save=1.87ms
+[2018.11.18-17.57.27:088][ 52]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Grass_LayerInfoF17DEEF74437365F61C9DB808983E8BD.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_sharedassets/Grass_LayerInfo.uasset'
+[2018.11.18-17.57.27:092][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_sharedassets/Grass_LayerInfo.uasset
+[2018.11.18-17.57.27:108][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LandScape" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/LandScape.uasset" SILENT=true
+[2018.11.18-17.57.27:122][ 52]LogSavePackage: Save=12.00ms
+[2018.11.18-17.57.27:122][ 52]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/LandScape8DA8369547C9CB8C7ED216A4EF77BEAF.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/LandScape.uasset'
+[2018.11.18-17.57.27:126][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/LandScape.uasset
+[2018.11.18-17.57.27:473][ 52]LogSlate: Window 'LandScape' being destroyed
+[2018.11.18-17.57.28:238][ 52]LogSlate: Window 'BattleTank - Unreal Editor' being destroyed
+[2018.11.18-17.57.28:239][ 52]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.18-17.57.30:037][ 53]Cmd: QUIT_EDITOR
+[2018.11.18-17.57.32:569][ 53]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.18-17.57.32:636][ 53]LogExit: Preparing to exit.
+[2018.11.18-17.57.35:765][ 53]LogDirectoryWatcher: A directory notification for 'C:/Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/' was aborted.
+[2018.11.18-17.57.37:424][ 53]LogExit: Editor shut down
+[2018.11.18-17.57.37:477][ 53]LogExit: Transaction tracking system shut down
+[2018.11.18-17.57.38:779][ 53]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.11.18-17.57.38:780][ 53]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/' was aborted.
+[2018.11.18-17.57.38:780][ 53]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.11.18-17.57.38:780][ 53]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.11.18-17.57.38:780][ 53]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.11.18-17.57.38:780][ 53]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.11.18-17.57.38:780][ 53]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.11.18-17.57.38:780][ 53]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
