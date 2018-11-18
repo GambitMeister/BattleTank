@@ -1,4 +1,4 @@
-﻿Log file open, 11/18/18 16:38:05
+﻿Log file open, 11/18/18 17:54:51
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: BattleTank
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(1277979128) SRandInit(1277979128).
+LogInit: Display: RandInit(-122020266) SRandInit(-122020266).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 2.059459
+LogStats: Stats thread started at 0.213801
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +168,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  5.916s to configure plugins.
+LogStreaming: Display: Took  2.864s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -216,258 +216,848 @@ LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.19
-LogInit: Command Line:  
+LogInit: Command Line: 
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogStreaming: Display: Took  0.001s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.11.18-15.38.13:321][  0]LogInit: Selected Device Profile: [Windows]
-[2018.11.18-15.38.13:321][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.11.18-15.38.13:456][  0]LogInit: Computer: ALBERTO
-[2018.11.18-15.38.13:456][  0]LogInit: User: Alberto99
-[2018.11.18-15.38.13:456][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.11.18-15.38.13:457][  0]LogInit: High frequency timer resolution =3.417983 MHz
-[2018.11.18-15.38.13:457][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
-[2018.11.18-15.38.13:458][  0]LogMemory: Platform Memory Stats for Windows
-[2018.11.18-15.38.13:458][  0]LogMemory: Process Physical Memory: 273.43 MB used, 273.43 MB peak
-[2018.11.18-15.38.13:458][  0]LogMemory: Process Virtual Memory: 270.01 MB used, 270.01 MB peak
-[2018.11.18-15.38.13:458][  0]LogMemory: Physical Memory: 5265.52 MB used,  2878.26 MB free, 8143.77 MB total
-[2018.11.18-15.38.13:458][  0]LogMemory: Virtual Memory: 4775.80 MB used,  2878.26 MB free, 134217728.00 MB total
-[2018.11.18-15.38.13:938][  0]LogInit: Using OS detected language (it-IT).
-[2018.11.18-15.38.13:938][  0]LogInit: Using OS detected locale (it-IT).
-[2018.11.18-15.38.14:134][  0]LogTextLocalizationManager: No localization for 'it-IT' exists, so 'en' will be used for the language.
-[2018.11.18-15.38.14:887][  0]LogStreaming: Display: Took  0.918s to EndInitTextLocalization.
-[2018.11.18-15.38.14:907][  0]LogInit: Setting process to per monitor DPI aware
-[2018.11.18-15.38.15:599][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.11.18-15.38.15:599][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.11.18-15.38.19:228][  0]LogD3D11RHI: D3D11 adapters:
-[2018.11.18-15.38.19:496][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
-[2018.11.18-15.38.19:496][  0]LogD3D11RHI:       4043/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2018.11.18-15.38.19:535][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.11.18-15.38.19:535][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.11.18-15.38.19:535][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.11.18-15.38.19:556][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.11.18-15.38.19:556][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
-[2018.11.18-15.38.19:556][  0]LogWindows: EnumDisplayDevices:
-[2018.11.18-15.38.19:557][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
-[2018.11.18-15.38.19:557][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
-[2018.11.18-15.38.19:557][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
-[2018.11.18-15.38.19:558][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
-[2018.11.18-15.38.19:558][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.11.18-15.38.19:558][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
-[2018.11.18-15.38.19:558][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.11.18-15.38.19:558][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.11.18-15.38.19:558][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
-[2018.11.18-15.38.19:633][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.11.18-15.38.19:633][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.11.18-15.38.19:633][  0]LogD3D11RHI: Async texture creation enabled
-[2018.11.18-15.38.20:344][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.11.18-15.38.20:564][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Intermediate/Shaders/WorkingDirectory/4684/).
-[2018.11.18-15.38.20:569][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alberto99/AppData/Local/Temp/UnrealShaderWorkingDir/00FCA9944D130E9E69AC4D98087F1AC4/'.
-[2018.11.18-15.38.22:598][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.11.18-15.38.22:636][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.11.18-15.38.22:673][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.11.18-15.38.22:698][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.11.18-15.38.22:803][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.11.18-15.38.22:830][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.11.18-15.38.22:849][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.11.18-15.38.22:865][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.11.18-15.38.22:875][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.11.18-15.38.22:890][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.11.18-15.38.22:905][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.11.18-15.38.22:919][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.11.18-15.38.22:933][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2018.11.18-15.38.22:947][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.11.18-15.38.22:961][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.11.18-15.38.22:990][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.11.18-15.38.22:990][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.11.18-15.38.23:048][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.18-15.38.23:051][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.11.18-15.38.23:118][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.11.18-15.38.23:131][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.11.18-15.38.23:145][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.11.18-15.38.23:158][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.11.18-15.38.23:172][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.11.18-15.38.23:187][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.11.18-15.38.23:187][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.11.18-15.38.24:326][  0]LogXGEController: Cleaning working directory: C:/Users/Alberto99/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.11.18-15.38.24:326][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.11.18-15.38.24:332][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.11.18-15.38.24:332][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.11.18-15.38.28:049][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.11.18-15.38.28:944][  0]LogDerivedDataCache: Loaded boot cache 0.89s 74MB C:/Users/Alberto99/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.11.18-15.38.28:945][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alberto99/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2018.11.18-15.38.28:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.11.18-15.38.28:945][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.11.18-15.38.28:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.11.18-15.38.28:945][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.11.18-15.38.29:042][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.11.18-15.38.29:085][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alberto99/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.11.18-15.38.29:140][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.11.18-15.38.29:180][  0]LogSlate: Using Freetype 2.6.0
-[2018.11.18-15.38.29:237][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.11.18-15.38.29:237][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.11.18-15.38.32:788][  0]LogAssetRegistry: FAssetRegistry took 0.0307 seconds to start up
-[2018.11.18-15.38.37:556][  0]LogInit: Selected Device Profile: [Windows]
-[2018.11.18-15.38.38:831][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.11.18-15.38.38:868][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.11.18-15.38.38:869][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.11.18-15.38.38:869][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.11.18-15.38.38:869][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.11.18-15.38.38:869][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.11.18-15.38.39:095][  0]LogNetVersion: BattleTank , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 612388110)
-[2018.11.18-15.38.42:760][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.130691 seconds
-[2018.11.18-15.38.42:806][  0]LogUObjectArray: 36731 objects as part of root set at end of initial load.
-[2018.11.18-15.38.42:806][  0]LogUObjectAllocator: 7315024 out of 0 bytes used by permanent object pool.
-[2018.11.18-15.38.42:806][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.11.18-15.39.04:506][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.11.18-15.39.06:610][  0]SourceControl: Source control is disabled
-[2018.11.18-15.39.06:610][  0]SourceControl: Source control is disabled
-[2018.11.18-15.39.06:757][  0]SourceControl: Source control is disabled
-[2018.11.18-15.39.06:855][  0]SourceControl: Source control is disabled
-[2018.11.18-15.39.08:843][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.11.18-15.39.09:310][  0]LogOcInput: OculusInput pre-init called
-[2018.11.18-15.39.10:342][  0]LogEngine: Initializing Engine...
-[2018.11.18-15.39.10:381][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.11.18-15.39.10:395][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.11.18-15.39.10:396][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.11.18-15.39.11:411][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.11.18-15.39.11:549][  0]LogInit: XAudio2 using 'Altoparlanti (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.11.18-15.39.11:643][  0]LogInit: FAudioDevice initialized.
-[2018.11.18-15.39.11:953][  0]LogDerivedDataCache: Saved boot cache 0.28s 74MB C:/Users/Alberto99/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.11.18-15.39.11:973][  0]LogInit: Texture streaming: Enabled
-[2018.11.18-15.39.12:143][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.11.18-15.39.13:442][  0]LogInit: Transaction tracking system initialized
-[2018.11.18-15.39.14:826][  0]BlueprintLog: New page: Editor Load
-[2018.11.18-15.39.19:613][  0]LocalizationService: Localization service is disabled
-[2018.11.18-15.39.22:636][  0]LogConsoleResponse: Display: 
-[2018.11.18-15.39.27:829][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/' took 0.03s
-[2018.11.18-15.39.27:829][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.11.18-15.39.27:829][  0]LogCook: Display: Mobile HDR setting 1
-[2018.11.18-15.39.27:829][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.11.18-15.39.27:830][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.11.18-15.39.27:830][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.11.18-15.39.34:350][  0]SourceControl: Source control is disabled
-[2018.11.18-15.39.34:470][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.11.18-15.39.34:659][  0]LightingResults: New page: Lighting Build
-[2018.11.18-15.39.35:115][  0]MapCheck: New page: Map Check
-[2018.11.18-15.39.35:116][  0]LightingResults: New page: Lighting Build
-[2018.11.18-15.39.39:248][  0]LogAIModule: Creating AISystem for world Untitled_1
-[2018.11.18-15.39.41:446][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.11.18-15.39.41:843][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.11.18-15.39.42:050][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 206,656ms to complete.
-[2018.11.18-15.39.42:054][  0]LogFileHelpers: Loading map 'Template_Default' took 7.613
-[2018.11.18-15.39.47:691][  0]LogCollectionManager: Loaded 0 collections in 0.015810 seconds
-[2018.11.18-15.39.48:012][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Collections/' took 0.01s
-[2018.11.18-15.39.48:013][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/Developers/Alberto99/Collections/' took 0.01s
-[2018.11.18-15.39.48:013][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/Collections/' took 0.01s
-[2018.11.18-15.39.48:013][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2018.11.18-15.39.48:065][  0]LogContentBrowser: Native class hierarchy populated in 0.0345 seconds. Added 2452 classes and 558 folders.
-[2018.11.18-15.39.48:298][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.11.18-15.39.49:608][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2018.11.18-15.39.49:720][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
-[2018.11.18-15.39.51:224][  0]LogSlate: Took 0.009574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.11.18-15.39.51:289][  0]LogSlate: Took 0.027057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.11.18-15.39.51:366][  0]LogSlate: Took 0.014677 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.11.18-15.39.52:076][  0]LogRenderer: Reallocating scene render targets to support 1192x556 Format 10 NumSamples 1 (Frame:1).
-[2018.11.18-15.39.53:532][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.11.18-15.39.53:532][  0]LogLoad: (Engine Initialization) Total time: 124.30 seconds
-[2018.11.18-15.39.53:532][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.11.18-15.39.54:861][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.11.18-15.39.56:611][  5]LogAssetRegistry: Asset discovery search completed in 83.8461 seconds
-[2018.11.18-15.39.56:636][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2018.11.18-15.39.56:636][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.005402 seconds (updated 0 objects)
-[2018.11.18-15.41.24:312][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.18-15.49.54:846][188]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2018.11.18-15.49.55:616][189]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BattleTank
-[2018.11.18-15.49.55:616][189]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
-[2018.11.18-15.49.55:616][189]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
-[2018.11.18-15.49.55:616][189]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
-[2018.11.18-15.49.55:616][189]LogTemp: BranchPath = ALBERTO/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = ALBERTO/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
-[2018.11.18-15.49.55:616][189]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Alberto99\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
-[2018.11.18-15.50.04:045][968]LogSlate: Window 'Project Settings' being destroyed
-[2018.11.18-15.50.04:049][968]LogSlate: Window 'Project Settings' being destroyed
-[2018.11.18-16.43.40:426][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2018.11.18-16.43.41:746][243]Cmd: DELETE
-[2018.11.18-16.43.41:746][243]Cmd: ACTOR DELETE
-[2018.11.18-16.43.42:238][243]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.11.18-16.43.42:392][243]LogEditorActor: Deleted 1 Actors (0.283 secs)
-[2018.11.18-16.43.43:658][390]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
-[2018.11.18-16.43.51:854][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.18-16.43.52:077][328]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
-[2018.11.18-16.43.52:253][328]LogShaderCompilers: Display: Shaders left to compile 8
-[2018.11.18-16.43.52:253][328]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
-[2018.11.18-16.43.52:340][328]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
-[2018.11.18-16.43.52:497][328]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
-[2018.11.18-16.43.52:649][328]LogShaderCompilers: Display: Shaders left to compile 60
-[2018.11.18-16.43.52:649][328]LogShaderCompilers: Display: Shaders left to compile 50
-[2018.11.18-16.43.52:649][328]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
-[2018.11.18-16.43.53:144][328]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
-[2018.11.18-16.43.53:175][328]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
-[2018.11.18-16.43.53:222][328]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
-[2018.11.18-16.43.53:300][328]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
-[2018.11.18-16.43.53:378][328]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
-[2018.11.18-16.43.53:450][328]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
-[2018.11.18-16.43.53:518][328]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
-[2018.11.18-16.43.53:607][328]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
-[2018.11.18-16.43.56:525][392]LogShaderCompilers: Display: Shaders left to compile 188
-[2018.11.18-16.43.57:775][487]LogShaderCompilers: Display: Shaders left to compile 178
-[2018.11.18-16.43.58:054][488]LogShaderCompilers: Display: Shaders left to compile 168
-[2018.11.18-16.44.00:186][489]LogShaderCompilers: Display: Shaders left to compile 158
-[2018.11.18-16.44.00:186][489]LogShaderCompilers: Display: Shaders left to compile 148
-[2018.11.18-16.44.02:216][491]LogShaderCompilers: Display: Shaders left to compile 138
-[2018.11.18-16.44.02:233][491]LogShaderCompilers: Display: Shaders left to compile 128
-[2018.11.18-16.44.02:254][491]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
-[2018.11.18-16.44.02:437][491]LogShaderCompilers: Display: Shaders left to compile 118
-[2018.11.18-16.44.02:455][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.11.18-16.44.03:996][542]LogShaderCompilers: Display: Shaders left to compile 108
-[2018.11.18-16.44.04:007][542]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
-[2018.11.18-16.44.04:044][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.11.18-16.44.05:196][543]LogShaderCompilers: Display: Shaders left to compile 98
-[2018.11.18-16.44.05:211][543]LogShaderCompilers: Display: Shaders left to compile 88
-[2018.11.18-16.44.08:278][545]LogShaderCompilers: Display: Shaders left to compile 78
-[2018.11.18-16.44.08:278][545]LogShaderCompilers: Display: Shaders left to compile 68
-[2018.11.18-16.44.08:278][545]LogShaderCompilers: Display: Shaders left to compile 58
-[2018.11.18-16.44.08:280][545]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
-[2018.11.18-16.44.08:319][545]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.11.18-16.44.08:328][545]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2018.11.18-16.44.08:340][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.18-16.44.09:240][547]LogShaderCompilers: Display: Shaders left to compile 48
-[2018.11.18-16.44.10:243][548]LogShaderCompilers: Display: Shaders left to compile 38
-[2018.11.18-16.44.10:271][551]LogShaderCompilers: Display: Shaders left to compile 28
-[2018.11.18-16.44.11:318][562]LogShaderCompilers: Display: Shaders left to compile 18
-[2018.11.18-16.44.12:342][563]LogShaderCompilers: Display: Shaders left to compile 8
-[2018.11.18-16.44.22:362][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.18-16.44.37:494][758]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
-[2018.11.18-16.44.38:053][808]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (Landscape)
-[2018.11.18-16.44.38:053][808]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsPendingKill() == true. Aborting.
-[2018.11.18-16.44.38:054][808]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (Landscape)
-[2018.11.18-16.44.39:236][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.18-16.44.40:099][ 36]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2018.11.18-16.44.40:856][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.18-16.44.53:636][536]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
-[2018.11.18-16.44.53:681][536]LogEditorActor: Deleted 1 Actors (0.047 secs)
-[2018.11.18-16.44.55:790][785]Cmd: TRANSACTION UNDO
-[2018.11.18-16.44.55:791][785]LogEditorTransaction: Undo Delete selection
-[2018.11.18-16.44.55:954][785]LogSlate: Took 0.019104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.11.18-16.44.57:564][952]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
-[2018.11.18-16.44.57:584][952]LogEditorActor: Deleted 1 Actors (0.021 secs)
-[2018.11.18-16.44.58:870][ 95]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
-[2018.11.18-16.45.34:347][187]LogSavePackage: Save=284.22ms
-[2018.11.18-16.45.34:348][187]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Untitled_1_Auto13B6CBFB8442A19206F3E798391455342.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
-[2018.11.18-16.45.34:379][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
-[2018.11.18-16.45.34:548][187]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.870
-[2018.11.18-16.45.34:573][187]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.870
-[2018.11.18-16.46.46:046][417]LogSlate: Window 'Save Level As' being destroyed
-[2018.11.18-16.46.46:053][417]LogSlate: FSceneViewport::OnFocusLost() reason 3
-[2018.11.18-16.46.46:262][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleTankMap" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.11.18-16.46.46:330][417]LogSavePackage: Save=55.74ms
-[2018.11.18-16.46.46:330][417]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/BattleTankMapEA7B36634EA5270B0CCC17ABC430E51F.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap'
-[2018.11.18-16.46.46:335][417]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap
-[2018.11.18-16.46.46:369][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleTankMap_BuiltData" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset" SILENT=true
-[2018.11.18-16.46.46:424][417]LogSavePackage: Save=53.05ms
-[2018.11.18-16.46.46:424][417]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/BattleTankMap_BuiltDataB4FC61954081E435F6358D83D5058C6E.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset'
-[2018.11.18-16.46.46:427][417]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset
-[2018.11.18-16.46.46:434][417]LogFileHelpers: Saving map 'BattleTankMap' took 0.330
-[2018.11.18-16.46.46:638][426]LogSlate: Took 0.000484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.18-16.54.55:457][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.18-16.54.55:457][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.18-16.54.55:467][  0]LogInit: Computer: ALBERTO
+[2018.11.18-16.54.55:468][  0]LogInit: User: Alberto99
+[2018.11.18-16.54.55:468][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.18-16.54.55:468][  0]LogInit: High frequency timer resolution =3.417983 MHz
+[2018.11.18-16.54.55:468][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.11.18-16.54.55:468][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.18-16.54.55:468][  0]LogMemory: Process Physical Memory: 273.47 MB used, 273.47 MB peak
+[2018.11.18-16.54.55:468][  0]LogMemory: Process Virtual Memory: 270.07 MB used, 270.07 MB peak
+[2018.11.18-16.54.55:468][  0]LogMemory: Physical Memory: 5395.71 MB used,  2748.06 MB free, 8143.77 MB total
+[2018.11.18-16.54.55:468][  0]LogMemory: Virtual Memory: 4775.80 MB used,  2748.06 MB free, 134217728.00 MB total
+[2018.11.18-16.54.55:970][  0]LogInit: Using OS detected language (it-IT).
+[2018.11.18-16.54.55:970][  0]LogInit: Using OS detected locale (it-IT).
+[2018.11.18-16.54.55:984][  0]LogTextLocalizationManager: No localization for 'it-IT' exists, so 'en' will be used for the language.
+[2018.11.18-16.54.56:797][  0]LogStreaming: Display: Took  0.827s to EndInitTextLocalization.
+[2018.11.18-16.54.56:797][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.18-16.54.56:841][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.18-16.54.56:841][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.18-16.54.57:196][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.18-16.54.57:269][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.11.18-16.54.57:269][  0]LogD3D11RHI:       4043/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.18-16.54.57:272][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.18-16.54.57:272][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.18-16.54.57:272][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.18-16.54.57:283][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.18-16.54.57:283][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.18-16.54.57:283][  0]LogWindows: EnumDisplayDevices:
+[2018.11.18-16.54.57:283][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.11.18-16.54.57:284][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.11.18-16.54.57:284][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.11.18-16.54.57:284][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.11.18-16.54.57:285][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.18-16.54.57:285][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.11.18-16.54.57:285][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.18-16.54.57:285][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.18-16.54.57:285][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2018.11.18-16.54.57:339][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.18-16.54.57:340][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.18-16.54.57:340][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.18-16.54.57:365][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.18-16.54.57:459][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Intermediate/Shaders/WorkingDirectory/6672/).
+[2018.11.18-16.54.57:460][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alberto99/AppData/Local/Temp/UnrealShaderWorkingDir/0B353F2044A0C456D31A8A865A99EC2C/'.
+[2018.11.18-16.54.57:975][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.18-16.54.57:992][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.18-16.54.58:008][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.18-16.54.58:025][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.18-16.54.58:043][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.18-16.54.58:059][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.18-16.54.58:077][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.18-16.54.58:094][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.18-16.54.58:104][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.18-16.54.58:118][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.18-16.54.58:131][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.18-16.54.58:145][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.18-16.54.58:158][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.11.18-16.54.58:189][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.18-16.54.58:203][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.18-16.54.58:230][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.18-16.54.58:230][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.18-16.54.58:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-16.54.58:246][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.18-16.54.58:287][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.18-16.54.58:300][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.18-16.54.58:313][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.18-16.54.58:327][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.18-16.54.58:340][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.18-16.54.58:354][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.18-16.54.58:354][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.18-16.54.58:650][  0]LogXGEController: Cleaning working directory: C:/Users/Alberto99/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.18-16.54.58:650][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.18-16.54.58:650][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.18-16.54.58:650][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.18-16.54.59:997][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.18-16.55.00:093][  0]LogDerivedDataCache: Loaded boot cache 0.10s 74MB C:/Users/Alberto99/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.18-16.55.00:094][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alberto99/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.11.18-16.55.00:094][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.18-16.55.00:094][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.18-16.55.00:094][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.18-16.55.00:094][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.18-16.55.00:111][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.18-16.55.00:123][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alberto99/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.18-16.55.00:134][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.18-16.55.00:135][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.18-16.55.00:136][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.18-16.55.00:136][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.18-16.55.00:342][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.11.18-16.55.00:682][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.18-16.55.00:876][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.18-16.55.00:881][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.18-16.55.00:881][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.18-16.55.00:881][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.18-16.55.00:881][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.18-16.55.00:881][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.18-16.55.00:949][  0]LogNetVersion: BattleTank , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 612388110)
+[2018.11.18-16.55.01:391][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.050687 seconds
+[2018.11.18-16.55.01:397][  0]LogUObjectArray: 36731 objects as part of root set at end of initial load.
+[2018.11.18-16.55.01:397][  0]LogUObjectAllocator: 7315024 out of 0 bytes used by permanent object pool.
+[2018.11.18-16.55.01:397][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.18-16.55.04:539][  0]SourceControl: Source control is disabled
+[2018.11.18-16.55.04:539][  0]SourceControl: Source control is disabled
+[2018.11.18-16.55.04:606][  0]SourceControl: Source control is disabled
+[2018.11.18-16.55.04:650][  0]SourceControl: Source control is disabled
+[2018.11.18-16.55.05:692][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.18-16.55.06:142][  0]LogOcInput: OculusInput pre-init called
+[2018.11.18-16.55.06:345][  0]LogEngine: Initializing Engine...
+[2018.11.18-16.55.06:346][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.18-16.55.06:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.18-16.55.06:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.18-16.55.06:591][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.18-16.55.06:626][  0]LogInit: XAudio2 using 'Altoparlanti (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.18-16.55.06:661][  0]LogInit: FAudioDevice initialized.
+[2018.11.18-16.55.06:879][  0]LogDerivedDataCache: Saved boot cache 0.22s 74MB C:/Users/Alberto99/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.18-16.55.06:888][  0]LogInit: Texture streaming: Enabled
+[2018.11.18-16.55.06:948][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.18-16.55.06:961][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={8B122B05-4743-C058-69BE-F0BCBD5B920B}
+[2018.11.18-16.55.07:049][  0]LogInit: Transaction tracking system initialized
+[2018.11.18-16.55.07:096][  0]BlueprintLog: New page: Editor Load
+[2018.11.18-16.55.07:273][  0]LocalizationService: Localization service is disabled
+[2018.11.18-16.55.07:485][  0]LogConsoleResponse: Display: 
+[2018.11.18-16.55.07:656][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.18-16.55.07:656][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.18-16.55.07:656][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.18-16.55.07:656][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.18-16.55.07:656][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.18-16.55.08:162][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/' took 0.01s
+[2018.11.18-16.55.08:526][  0]SourceControl: Source control is disabled
+[2018.11.18-16.55.08:526][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.18-16.55.08:526][  0]LightingResults: New page: Lighting Build
+[2018.11.18-16.55.08:531][  0]MapCheck: New page: Map Check
+[2018.11.18-16.55.08:531][  0]LightingResults: New page: Lighting Build
+[2018.11.18-16.55.08:748][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.11.18-16.55.08:756][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.18-16.55.08:769][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.18-16.55.08:879][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 109,71ms to complete.
+[2018.11.18-16.55.08:879][  0]LogFileHelpers: Loading map 'Template_Default' took 0.354
+[2018.11.18-16.55.09:067][  0]LogCollectionManager: Loaded 0 collections in 0.004387 seconds
+[2018.11.18-16.55.09:133][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/Collections/' took 0.01s
+[2018.11.18-16.55.09:133][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/Developers/Alberto99/Collections/' took 0.01s
+[2018.11.18-16.55.09:133][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/Collections/' took 0.01s
+[2018.11.18-16.55.09:133][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.18-16.55.09:142][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2452 classes and 558 folders.
+[2018.11.18-16.55.09:174][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.18-16.55.09:866][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.18-16.55.09:887][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.18-16.55.10:010][  0]LogSlate: Took 0.000370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.18-16.55.10:014][  0]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.18-16.55.10:124][  0]LogSlate: Took 0.106578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.18-16.55.10:222][  0]LogRenderer: Reallocating scene render targets to support 1192x556 Format 10 NumSamples 1 (Frame:1).
+[2018.11.18-16.55.10:378][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.18-16.55.10:378][  0]LogLoad: (Engine Initialization) Total time: 22.67 seconds
+[2018.11.18-16.55.10:378][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.18-16.55.10:740][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.18-16.55.11:393][  2]LogAssetRegistry: Asset discovery search completed in 11.0735 seconds
+[2018.11.18-16.55.11:395][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.18-16.55.11:395][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000081 seconds (updated 0 objects)
+[2018.11.18-16.55.13:390][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.18-16.55.13:964][ 56]Cmd: DELETE
+[2018.11.18-16.55.13:965][ 56]Cmd: ACTOR DELETE
+[2018.11.18-16.55.13:966][ 56]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.18-16.55.13:976][ 56]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2018.11.18-16.55.14:769][146]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.18-16.55.15:770][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-16.55.16:007][276]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.11.18-16.55.37:843][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-16.55.37:951][891]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.18-16.55.38:874][891]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.11.18-16.55.38:912][891]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.11.18-16.55.38:925][891]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.11.18-16.55.38:937][891]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-16.55.39:069][891]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.11.18-16.55.39:110][891]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.11.18-16.55.39:126][891]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.11.18-16.55.39:205][891]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.11.18-16.55.39:217][891]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.11.18-16.55.39:229][891]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-16.55.39:240][891]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.11.18-16.55.39:251][891]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.11.18-16.55.39:293][891]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.11.18-16.55.39:305][891]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.11.18-16.55.39:317][891]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.11.18-16.55.39:376][891]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.11.18-16.55.45:864][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-16.55.45:985][537]LogRenderer: Reallocating scene render targets to support 1192x564 Format 10 NumSamples 1 (Frame:3427).
+[2018.11.18-16.55.46:027][538]LogRenderer: Reallocating scene render targets to support 1192x572 Format 10 NumSamples 1 (Frame:3429).
+[2018.11.18-16.55.46:071][539]LogRenderer: Reallocating scene render targets to support 1192x584 Format 10 NumSamples 1 (Frame:3431).
+[2018.11.18-16.55.46:116][540]LogRenderer: Reallocating scene render targets to support 1192x596 Format 10 NumSamples 1 (Frame:3433).
+[2018.11.18-16.55.46:159][541]LogRenderer: Reallocating scene render targets to support 1192x612 Format 10 NumSamples 1 (Frame:3435).
+[2018.11.18-16.55.46:202][542]LogRenderer: Reallocating scene render targets to support 1192x624 Format 10 NumSamples 1 (Frame:3437).
+[2018.11.18-16.55.46:243][543]LogRenderer: Reallocating scene render targets to support 1192x632 Format 10 NumSamples 1 (Frame:3439).
+[2018.11.18-16.55.46:289][544]LogRenderer: Reallocating scene render targets to support 1192x636 Format 10 NumSamples 1 (Frame:3441).
+[2018.11.18-16.55.46:331][545]LogRenderer: Reallocating scene render targets to support 1192x640 Format 10 NumSamples 1 (Frame:3443).
+[2018.11.18-16.55.46:413][547]LogRenderer: Reallocating scene render targets to support 1192x648 Format 10 NumSamples 1 (Frame:3447).
+[2018.11.18-16.55.46:458][548]LogRenderer: Reallocating scene render targets to support 1192x660 Format 10 NumSamples 1 (Frame:3449).
+[2018.11.18-16.55.46:500][549]LogRenderer: Reallocating scene render targets to support 1192x672 Format 10 NumSamples 1 (Frame:3451).
+[2018.11.18-16.55.46:549][550]LogRenderer: Reallocating scene render targets to support 1192x684 Format 10 NumSamples 1 (Frame:3453).
+[2018.11.18-16.55.46:592][551]LogRenderer: Reallocating scene render targets to support 1192x696 Format 10 NumSamples 1 (Frame:3455).
+[2018.11.18-16.55.46:634][552]LogRenderer: Reallocating scene render targets to support 1192x708 Format 10 NumSamples 1 (Frame:3457).
+[2018.11.18-16.55.46:679][553]LogRenderer: Reallocating scene render targets to support 1192x720 Format 10 NumSamples 1 (Frame:3459).
+[2018.11.18-16.55.46:763][555]LogRenderer: Reallocating scene render targets to support 1192x724 Format 10 NumSamples 1 (Frame:3463).
+[2018.11.18-16.56.00:417][ 43]Cmd: TRANSACTION UNDO
+[2018.11.18-16.56.00:417][ 43]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-16.56.08:265][881]Cmd: TRANSACTION UNDO
+[2018.11.18-16.56.08:265][881]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-16.56.08:308][881]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-16.56.08:353][881]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.11.18-16.56.08:873][910]Cmd: TRANSACTION UNDO
+[2018.11.18-16.56.08:873][910]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-16.56.10:477][ 91]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.11.18-16.56.10:530][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-16.56.15:253][614]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.11.18-16.56.15:286][614]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-16.56.31:167][429]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.11.18-16.56.31:203][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-16.56.41:154][523]Cmd: TRANSACTION UNDO
+[2018.11.18-16.56.41:154][523]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.11.18-16.56.41:619][559]Cmd: TRANSACTION UNDO
+[2018.11.18-16.56.41:619][559]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-16.56.41:675][559]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-16.56.42:136][595]Cmd: TRANSACTION UNDO
+[2018.11.18-16.56.42:136][595]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-16.56.42:171][595]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-16.56.42:613][637]Cmd: TRANSACTION UNDO
+[2018.11.18-16.56.42:613][637]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-16.56.42:639][637]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-16.56.43:061][676]Cmd: TRANSACTION UNDO
+[2018.11.18-16.56.43:061][676]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.11.18-16.56.43:639][734]Cmd: TRANSACTION UNDO
+[2018.11.18-16.56.43:639][734]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-16.56.43:671][734]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-16.56.44:114][773]Cmd: TRANSACTION UNDO
+[2018.11.18-16.56.44:114][773]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-16.56.44:144][773]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-16.56.44:597][816]Cmd: TRANSACTION UNDO
+[2018.11.18-16.56.44:597][816]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-16.56.45:223][880]Cmd: TRANSACTION UNDO
+[2018.11.18-16.56.45:223][880]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-16.56.45:810][933]Cmd: TRANSACTION UNDO
+[2018.11.18-16.56.45:810][933]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.11.18-16.56.52:000][607]Cmd: TRANSACTION UNDO
+[2018.11.18-16.56.52:000][607]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-16.56.55:195][955]Cmd: SELECT NONE
+[2018.11.18-16.56.55:950][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-16.56.57:408][ 23]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.18-16.56.57:552][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-16.56.57:565][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.18-16.56.59:999][ 23]LogSavePackage: Save=2422.61ms
+[2018.11.18-16.56.59:999][ 23]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/NewMapF2FB9E0B480E443D5A219BAFCFB4B929.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/NewMap.umap'
+[2018.11.18-16.57.00:004][ 23]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/NewMap.umap
+[2018.11.18-16.57.00:031][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.11.18-16.57.00:049][ 23]LogSavePackage: Save=16.46ms
+[2018.11.18-16.57.00:049][ 23]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/NewMap_BuiltDataC3876D2144DD21011CE9B9A6DA5ADBEF.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/NewMap_BuiltData.uasset'
+[2018.11.18-16.57.00:051][ 23]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/NewMap_BuiltData.uasset
+[2018.11.18-16.57.00:060][ 23]LogFileHelpers: Saving map 'NewMap' took 2.645
+[2018.11.18-16.57.03:720][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-16.57.03:799][353]LogAIModule: Creating AISystem for world BattleTankMap
+[2018.11.18-16.57.05:443][353]Cmd: MAP LOAD FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.18-16.57.05:445][353]LightingResults: New page: Lighting Build
+[2018.11.18-16.57.05:446][353]LoadErrors: New page: Loading map: BattleTankMap.umap
+[2018.11.18-16.57.05:811][353]MapCheck: New page: Map Check
+[2018.11.18-16.57.05:811][353]LightingResults: New page: Lighting Build
+[2018.11.18-16.57.33:501][353]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.18-16.57.33:538][353]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.18-16.57.33:658][353]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 119,859ms to complete.
+[2018.11.18-16.57.33:664][353]LogFileHelpers: Loading map 'BattleTankMap' took 28.224
+[2018.11.18-16.57.47:759][396]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2018.11.18-16.57.53:147][945]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.11.18-16.57.53:161][945]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.11.18-16.57.53:173][945]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.11.18-16.57.53:185][945]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-16.57.53:213][945]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.11.18-16.57.53:225][945]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.11.18-16.57.53:236][945]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.11.18-16.57.53:248][945]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.11.18-16.57.53:260][945]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.11.18-16.57.53:271][945]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-16.57.53:283][945]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.11.18-16.57.53:295][945]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.11.18-16.57.53:307][945]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.11.18-16.57.53:319][945]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.11.18-16.57.53:331][945]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.11.18-16.57.53:342][945]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.11.18-16.57.54:825][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-16.57.55:745][ 83]LogAIModule: Creating AISystem for world NewMap
+[2018.11.18-16.57.57:167][ 83]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.18-16.57.57:195][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-16.57.57:303][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-16.57.57:335][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-16.57.57:920][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-16.57.57:921][ 83]LoadErrors: Error: /Game/NewMap : Failed import for MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData Referenced by export Level /Game/NewMap.NewMap:PersistentLevel
+[2018.11.18-16.57.58:571][148]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/NewMap_BuiltData.NewMap_BuiltData'
+[2018.11.18-16.57.58:645][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-16.57.59:786][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-16.58.01:778][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleTankMap" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.18-16.58.04:204][433]LogSavePackage: Save=2397.24ms
+[2018.11.18-16.58.04:204][433]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/BattleTankMapA194A7D54A9507A684FA89A91C99DE31.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap'
+[2018.11.18-16.58.04:210][433]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap
+[2018.11.18-16.58.04:228][433]LogFileHelpers: Saving map 'BattleTankMap' took 2.570
+[2018.11.18-17.01.20:257][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.01.49:241][466]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.11.18-17.01.49:660][507]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.11.18-17.01.50:781][630]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.11.18-17.01.51:775][740]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.11.18-17.01.52:368][808]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.11.18-17.01.52:403][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.01.53:792][968]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.11.18-17.01.54:854][ 93]Cmd: TRANSACTION UNDO
+[2018.11.18-17.01.54:854][ 93]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2018.11.18-17.01.55:240][122]Cmd: TRANSACTION UNDO
+[2018.11.18-17.01.55:241][122]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.01.55:294][122]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.11.18-17.01.55:341][122]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-17.01.55:891][173]Cmd: TRANSACTION UNDO
+[2018.11.18-17.01.55:891][173]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.11.18-17.01.56:586][245]Cmd: TRANSACTION UNDO
+[2018.11.18-17.01.56:586][245]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2018.11.18-17.01.57:040][289]Cmd: TRANSACTION UNDO
+[2018.11.18-17.01.57:040][289]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.01.57:074][289]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.11.18-17.01.57:115][289]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-17.01.57:553][329]Cmd: TRANSACTION UNDO
+[2018.11.18-17.01.57:554][329]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2018.11.18-17.01.58:040][377]Cmd: TRANSACTION UNDO
+[2018.11.18-17.01.58:040][377]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.01.58:074][377]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.11.18-17.01.58:112][377]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-17.01.58:763][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.02.00:958][694]Cmd: TRANSACTION UNDO
+[2018.11.18-17.02.00:958][694]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.02.01:761][760]Cmd: TRANSACTION UNDO
+[2018.11.18-17.02.01:761][760]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.02.04:354][ 47]Cmd: TRANSACTION UNDO
+[2018.11.18-17.02.04:355][ 47]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.02.04:403][ 47]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.11.18-17.02.04:456][ 47]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-17.02.04:856][ 75]Cmd: TRANSACTION UNDO
+[2018.11.18-17.02.04:856][ 75]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2018.11.18-17.02.05:442][129]Cmd: TRANSACTION UNDO
+[2018.11.18-17.02.05:443][129]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.02.05:480][129]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.11.18-17.02.05:520][129]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-17.02.05:940][166]Cmd: TRANSACTION UNDO
+[2018.11.18-17.02.05:940][166]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2018.11.18-17.02.06:336][209]Cmd: TRANSACTION UNDO
+[2018.11.18-17.02.06:336][209]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.02.11:110][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.02.38:160][979]Cmd: TRANSACTION UNDO
+[2018.11.18-17.02.38:160][979]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.02.50:142][382]Cmd: TRANSACTION UNDO
+[2018.11.18-17.02.50:142][382]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.02.52:657][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.02.57:163][151]Cmd: TRANSACTION UNDO
+[2018.11.18-17.02.57:163][151]LogEditorTransaction: Undo Edit Brush Falloff
+[2018.11.18-17.02.57:356][163]Cmd: TRANSACTION UNDO
+[2018.11.18-17.02.57:356][163]LogEditorTransaction: Undo Edit Brush Falloff
+[2018.11.18-17.02.58:108][241]Cmd: TRANSACTION UNDO
+[2018.11.18-17.02.58:108][241]LogEditorTransaction: Undo Edit Brush Falloff
+[2018.11.18-17.03.04:013][943]Cmd: TRANSACTION REDO
+[2018.11.18-17.03.04:013][943]LogEditorTransaction: Redo Edit Brush Falloff
+[2018.11.18-17.03.04:624][  4]Cmd: TRANSACTION REDO
+[2018.11.18-17.03.04:624][  4]LogEditorTransaction: Redo Edit Brush Falloff
+[2018.11.18-17.03.04:799][ 22]Cmd: TRANSACTION REDO
+[2018.11.18-17.03.04:799][ 22]LogEditorTransaction: Redo Edit Brush Falloff
+[2018.11.18-17.03.05:231][ 67]Cmd: TRANSACTION UNDO
+[2018.11.18-17.03.05:231][ 67]LogEditorTransaction: Undo Edit Brush Falloff
+[2018.11.18-17.03.05:384][ 81]Cmd: TRANSACTION UNDO
+[2018.11.18-17.03.05:384][ 81]LogEditorTransaction: Undo Edit Brush Falloff
+[2018.11.18-17.03.05:566][ 97]Cmd: TRANSACTION UNDO
+[2018.11.18-17.03.05:566][ 97]LogEditorTransaction: Undo Edit Brush Falloff
+[2018.11.18-17.03.33:135][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.03.35:081][434]LogActorFactory: Actor Factory created Cube
+[2018.11.18-17.03.35:689][463]LogActorFactory: Actor Factory created Cube
+[2018.11.18-17.03.36:969][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.03.43:065][984]Cmd: DELETE
+[2018.11.18-17.03.43:065][984]Cmd: ACTOR DELETE
+[2018.11.18-17.03.43:090][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.18-17.03.43:115][984]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2018.11.18-17.03.45:520][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.04.02:744][230]Cmd: TRANSACTION UNDO
+[2018.11.18-17.04.02:744][230]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.04.07:048][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.04.11:296][815]Cmd: TRANSACTION UNDO
+[2018.11.18-17.04.11:297][815]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.04.12:412][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.04.18:972][663]Cmd: TRANSACTION UNDO
+[2018.11.18-17.04.18:972][663]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.04.19:024][663]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.04.19:420][694]Cmd: TRANSACTION UNDO
+[2018.11.18-17.04.19:420][694]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.04.19:461][694]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.04.19:846][732]Cmd: TRANSACTION UNDO
+[2018.11.18-17.04.19:847][732]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.04.19:887][732]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.04.20:293][773]Cmd: TRANSACTION UNDO
+[2018.11.18-17.04.20:294][773]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.04.23:270][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.04.31:370][961]Cmd: TRANSACTION UNDO
+[2018.11.18-17.04.31:370][961]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.04.32:207][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.04.52:911][453]Cmd: TRANSACTION UNDO
+[2018.11.18-17.04.52:911][453]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.04.53:073][453]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.11.18-17.05.30:623][380]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.11.18-17.05.31:093][411]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.11.18-17.05.32:599][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.05.44:232][572]Cmd: TRANSACTION UNDO
+[2018.11.18-17.05.44:232][572]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.05.44:359][572]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.11.18-17.05.44:406][572]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.11.18-17.05.44:466][572]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-17.05.44:533][572]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.11.18-17.05.47:398][836]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.11.18-17.05.49:203][  3]Cmd: TRANSACTION UNDO
+[2018.11.18-17.05.49:203][  3]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.05.49:296][  3]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.11.18-17.05.52:402][330]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.11.18-17.06.08:199][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.06.16:107][121]Cmd: TRANSACTION UNDO
+[2018.11.18-17.06.16:108][121]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2018.11.18-17.06.16:305][121]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.11.18-17.06.16:350][121]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.11.18-17.06.16:496][121]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.11.18-17.06.16:541][121]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.11.18-17.06.16:587][121]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.11.18-17.06.16:716][121]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.11.18-17.06.16:769][121]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.06.16:819][121]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.11.18-17.06.33:489][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.06.36:500][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.06.45:590][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.06.54:818][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.07.06:509][875]Cmd: TRANSACTION UNDO
+[2018.11.18-17.07.06:509][875]LogEditorTransaction: Undo Set Rotation
+[2018.11.18-17.07.06:973][918]Cmd: TRANSACTION UNDO
+[2018.11.18-17.07.06:973][918]LogEditorTransaction: Undo Set Rotation
+[2018.11.18-17.07.07:303][953]Cmd: TRANSACTION UNDO
+[2018.11.18-17.07.07:303][953]LogEditorTransaction: Undo Set Rotation
+[2018.11.18-17.07.07:629][988]Cmd: TRANSACTION UNDO
+[2018.11.18-17.07.07:629][988]LogEditorTransaction: Undo Set Rotation
+[2018.11.18-17.07.08:037][ 33]Cmd: TRANSACTION UNDO
+[2018.11.18-17.07.08:037][ 33]LogEditorTransaction: Undo Set Rotation
+[2018.11.18-17.07.08:439][ 78]Cmd: TRANSACTION UNDO
+[2018.11.18-17.07.08:439][ 78]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.07.14:146][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.07.22:141][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.07.26:422][134]Cmd: TRANSACTION UNDO
+[2018.11.18-17.07.26:422][134]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2018.11.18-17.07.26:916][179]Cmd: TRANSACTION UNDO
+[2018.11.18-17.07.26:916][179]LogEditorTransaction: Undo Edit Outer Cone Angle
+[2018.11.18-17.07.31:153][679]Cmd: TRANSACTION UNDO
+[2018.11.18-17.07.31:154][679]LogEditorTransaction: Undo Edit Intensity
+[2018.11.18-17.07.43:307][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.08.05:717][896]Cmd: TRANSACTION UNDO
+[2018.11.18-17.08.05:717][896]LogEditorTransaction: Undo Edit Intensity
+[2018.11.18-17.08.07:920][ 79]Cmd: TRANSACTION UNDO
+[2018.11.18-17.08.07:920][ 79]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2018.11.18-17.08.15:983][686]Cmd: TRANSACTION UNDO
+[2018.11.18-17.08.15:983][686]LogEditorTransaction: Undo Edit Soft Source Radius
+[2018.11.18-17.08.27:200][641]Cmd: TRANSACTION UNDO
+[2018.11.18-17.08.27:200][641]LogEditorTransaction: Undo Edit Source Radius
+[2018.11.18-17.08.27:548][667]Cmd: TRANSACTION UNDO
+[2018.11.18-17.08.27:548][667]LogEditorTransaction: Undo Edit Intensity
+[2018.11.18-17.08.27:788][687]Cmd: TRANSACTION UNDO
+[2018.11.18-17.08.27:788][687]LogEditorTransaction: Undo Edit Attenuation Radius
+[2018.11.18-17.08.28:064][710]Cmd: TRANSACTION UNDO
+[2018.11.18-17.08.28:064][710]LogEditorTransaction: Undo Edit Source Radius
+[2018.11.18-17.08.28:270][727]Cmd: TRANSACTION UNDO
+[2018.11.18-17.08.28:270][727]LogEditorTransaction: Undo Edit Attenuation Radius
+[2018.11.18-17.08.29:638][842]Cmd: DELETE
+[2018.11.18-17.08.29:638][842]Cmd: ACTOR DELETE
+[2018.11.18-17.08.29:661][842]LogEditorActor: Deleted Actor: SpotLight
+[2018.11.18-17.08.29:687][842]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2018.11.18-17.08.30:546][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.08.37:609][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.08.39:374][641]Cmd: TRANSACTION UNDO
+[2018.11.18-17.08.39:374][641]LogEditorTransaction: Undo Edit Intensity
+[2018.11.18-17.08.56:571][129]LogEditorActor: Deleted Actor: SkyLight
+[2018.11.18-17.08.56:581][129]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.11.18-17.09.20:420][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.09.46:230][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.09.46:577][338]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.11.18-17.09.54:340][201]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.11.18-17.10.00:634][719]Cmd: TRANSACTION UNDO
+[2018.11.18-17.10.00:634][719]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.10.00:829][719]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-17.10.00:903][719]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.11.18-17.10.00:948][719]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.11.18-17.10.00:992][719]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.11.18-17.10.01:088][719]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.11.18-17.10.01:143][719]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.11.18-17.10.01:813][784]Cmd: TRANSACTION UNDO
+[2018.11.18-17.10.01:813][784]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2018.11.18-17.10.03:081][932]Cmd: TRANSACTION UNDO
+[2018.11.18-17.10.03:081][932]LogEditorTransaction: Undo Rotate Actors
+[2018.11.18-17.10.04:038][ 43]Cmd: TRANSACTION UNDO
+[2018.11.18-17.10.04:038][ 43]LogEditorTransaction: Undo Rotate Actors
+[2018.11.18-17.10.04:891][142]Cmd: TRANSACTION UNDO
+[2018.11.18-17.10.04:891][142]LogEditorTransaction: Undo Move Actors
+[2018.11.18-17.10.05:248][180]Cmd: TRANSACTION UNDO
+[2018.11.18-17.10.05:248][180]LogEditorTransaction: Undo Edit Cast Shadows
+[2018.11.18-17.10.06:316][288]Cmd: TRANSACTION REDO
+[2018.11.18-17.10.06:316][288]LogEditorTransaction: Redo Edit Cast Shadows
+[2018.11.18-17.10.06:494][302]Cmd: TRANSACTION REDO
+[2018.11.18-17.10.06:494][302]LogEditorTransaction: Redo Move Actors
+[2018.11.18-17.10.06:875][344]Cmd: TRANSACTION REDO
+[2018.11.18-17.10.06:875][344]LogEditorTransaction: Redo Rotate Actors
+[2018.11.18-17.10.07:574][424]Cmd: TRANSACTION UNDO
+[2018.11.18-17.10.07:575][424]LogEditorTransaction: Undo Rotate Actors
+[2018.11.18-17.10.08:996][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.10.12:435][969]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.10.27:578][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.10.41:689][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.10.51:196][ 12]Cmd: TRANSACTION UNDO
+[2018.11.18-17.10.51:196][ 12]LogEditorTransaction: Undo Rotate Actors
+[2018.11.18-17.10.52:487][158]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source2)
+[2018.11.18-17.11.01:243][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.11.05:877][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.11.18:444][915]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.18:444][915]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.11.18:540][915]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.11.18-17.11.18:597][915]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.11.18-17.11.22:348][268]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.22:348][268]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.11.22:475][268]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.11.18-17.11.22:518][268]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.11.18-17.11.22:624][268]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.11.18-17.11.29:377][909]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.29:377][909]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.11.29:488][909]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.11.18-17.11.30:050][960]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.30:050][960]LogEditorTransaction: Undo Rotate Actors
+[2018.11.18-17.11.32:329][230]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.32:329][230]LogEditorTransaction: Redo Rotate Actors
+[2018.11.18-17.11.37:481][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.11.39:096][ 29]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.39:096][ 29]LogEditorTransaction: Undo Rotate Actors
+[2018.11.18-17.11.39:407][ 57]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.39:407][ 57]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.11.39:674][ 82]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.39:674][ 82]LogEditorTransaction: Undo Rotate Actors
+[2018.11.18-17.11.40:080][128]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.40:080][128]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.11.40:297][150]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.40:297][150]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.11.40:498][170]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.40:498][170]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.11.40:673][187]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.40:673][187]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.11.40:839][204]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.40:839][204]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.11.41:005][221]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.41:005][221]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.11.41:204][241]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.41:204][241]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.11.41:328][253]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.41:328][253]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.11.41:477][268]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.41:477][268]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.11.41:628][284]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.41:628][284]LogEditorTransaction: Undo Edit Tool Strength
+[2018.11.18-17.11.41:805][301]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.41:805][301]LogEditorTransaction: Undo Move Actors
+[2018.11.18-17.11.41:980][318]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.41:980][318]LogEditorTransaction: Undo Edit Cast Shadows
+[2018.11.18-17.11.42:158][335]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.42:159][335]LogEditorTransaction: Undo Edit Cast Shadows
+[2018.11.18-17.11.42:342][354]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.42:342][354]LogEditorTransaction: Undo Edit Cast Shadows
+[2018.11.18-17.11.42:516][372]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.42:516][372]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.11.42:689][389]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.42:689][389]LogEditorTransaction: Undo Edit Visible
+[2018.11.18-17.11.42:867][406]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.42:867][406]LogEditorTransaction: Undo Edit Visible
+[2018.11.18-17.11.43:389][465]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.43:389][465]LogEditorTransaction: Redo Edit Visible
+[2018.11.18-17.11.43:569][483]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.43:569][483]LogEditorTransaction: Redo Edit Visible
+[2018.11.18-17.11.43:746][501]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.43:746][501]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.18-17.11.43:897][515]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.43:897][515]LogEditorTransaction: Redo Edit Cast Shadows
+[2018.11.18-17.11.44:064][531]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.44:064][531]LogEditorTransaction: Redo Edit Cast Shadows
+[2018.11.18-17.11.44:238][549]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.44:238][549]LogEditorTransaction: Redo Edit Cast Shadows
+[2018.11.18-17.11.44:405][566]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.44:405][566]LogEditorTransaction: Redo Move Actors
+[2018.11.18-17.11.44:593][585]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.44:594][585]LogEditorTransaction: Redo Edit Tool Strength
+[2018.11.18-17.11.44:777][603]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.44:777][603]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.18-17.11.44:954][620]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.44:954][620]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.18-17.11.45:129][638]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.45:129][638]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.18-17.11.45:347][661]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.45:347][661]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.18-17.11.45:531][680]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.45:531][680]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.18-17.11.45:733][700]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.45:734][700]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.18-17.11.45:921][718]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.45:921][718]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.18-17.11.46:115][738]Cmd: TRANSACTION REDO
+[2018.11.18-17.11.46:115][738]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.18-17.11.56:489][914]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.56:489][914]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.11.56:564][914]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.11.18-17.11.56:609][914]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.11.18-17.11.56:686][914]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-17.11.59:415][218]Cmd: TRANSACTION UNDO
+[2018.11.18-17.11.59:415][218]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.12.00:582][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.12.05:532][915]Cmd: TRANSACTION UNDO
+[2018.11.18-17.12.05:532][915]LogEditorTransaction: Undo Rotate Actors
+[2018.11.18-17.12.07:512][141]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source2)
+[2018.11.18-17.12.14:117][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.12.17:489][256]Cmd: TRANSACTION UNDO
+[2018.11.18-17.12.17:489][256]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.12.17:567][256]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.11.18-17.12.36:186][ 14]Cmd: TRANSACTION UNDO
+[2018.11.18-17.12.36:186][ 14]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.12.36:279][ 14]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.11.18-17.12.36:336][ 14]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.11.18-17.12.36:994][ 73]Cmd: TRANSACTION UNDO
+[2018.11.18-17.12.36:994][ 73]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.18-17.12.38:339][228]Cmd: TRANSACTION UNDO
+[2018.11.18-17.12.38:339][228]LogEditorTransaction: Undo Rotate Actors
+[2018.11.18-17.12.43:375][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.12.48:370][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.13.09:508][752]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source2)
+[2018.11.18-17.13.16:235][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.13.24:690][494]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.13.36:144][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.13.37:444][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.14.03:110][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.14.04:354][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.14.07:705][719]Cmd: TRANSACTION UNDO
+[2018.11.18-17.14.07:705][719]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.14.07:792][719]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.11.18-17.14.07:839][719]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.11.18-17.14.16:872][483]Cmd: TRANSACTION UNDO
+[2018.11.18-17.14.16:872][483]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.14.16:967][483]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.11.18-17.14.17:028][483]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.11.18-17.14.17:106][483]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.11.18-17.14.17:729][531]Cmd: TRANSACTION UNDO
+[2018.11.18-17.14.17:729][531]LogEditorTransaction: Undo Edit Tool Strength
+[2018.11.18-17.14.19:490][738]Cmd: TRANSACTION UNDO
+[2018.11.18-17.14.19:490][738]LogEditorTransaction: Undo Rotate Actors
+[2018.11.18-17.14.21:028][919]Cmd: TRANSACTION REDO
+[2018.11.18-17.14.21:029][919]LogEditorTransaction: Redo Rotate Actors
+[2018.11.18-17.15.12:537][376]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.11.18-17.15.12:591][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.15.14:047][511]Cmd: SELECT NONE
+[2018.11.18-17.15.22:178][183]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.11.18-17.15.27:741][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.15.28:935][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.15.42:034][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.16.04:818][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.16.16:285][841]Cmd: TRANSACTION UNDO
+[2018.11.18-17.16.16:286][841]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.16.16:423][841]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.11.18-17.16.16:469][841]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.11.18-17.16.16:543][841]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-17.16.16:591][841]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.11.18-17.16.49:327][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.16.50:480][205]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.16.56:522][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.17.41:923][135]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.17.56:362][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.19.45:006][176]Cmd: TRANSACTION UNDO
+[2018.11.18-17.19.45:006][176]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.19.45:092][176]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.11.18-17.19.45:162][176]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.19.50:410][615]Cmd: TRANSACTION UNDO
+[2018.11.18-17.19.50:410][615]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.19.50:521][615]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.11.18-17.19.50:583][615]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.11.18-17.19.50:650][615]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.11.18-17.20.22:772][ 44]Cmd: TRANSACTION UNDO
+[2018.11.18-17.20.22:772][ 44]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.20.22:893][ 44]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.11.18-17.20.22:984][ 44]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.20.23:039][ 44]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.11.18-17.20.23:089][ 44]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.11.18-17.20.26:045][302]Cmd: TRANSACTION UNDO
+[2018.11.18-17.20.26:045][302]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.20.28:273][462]Cmd: TRANSACTION UNDO
+[2018.11.18-17.20.28:273][462]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.20.35:167][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.20.37:052][236]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.20.51:105][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.20.52:388][658]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.11.18-17.20.52:449][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.20.57:740][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.21.24:134][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.21.24:141][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleTankMap" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.18-17.21.24:285][888]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.11.18-17.21.24:298][888]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.11.18-17.21.24:308][888]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.11.18-17.21.24:317][888]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.21.24:340][888]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.11.18-17.21.24:350][888]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.11.18-17.21.24:359][888]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.11.18-17.21.24:368][888]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.11.18-17.21.24:378][888]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.11.18-17.21.24:388][888]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-17.21.24:398][888]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.11.18-17.21.24:409][888]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.11.18-17.21.24:419][888]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.11.18-17.21.24:430][888]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.11.18-17.21.24:439][888]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.11.18-17.21.24:449][888]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.11.18-17.21.27:737][888]LogSavePackage: Save=3559.66ms
+[2018.11.18-17.21.27:737][888]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/BattleTankMap28E581BE4C694E07EC16299285EAC94A.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap'
+[2018.11.18-17.21.27:744][888]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap
+[2018.11.18-17.21.27:772][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleTankMap_BuiltData" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset" SILENT=true
+[2018.11.18-17.21.30:587][888]LogSavePackage: Save=53.19ms
+[2018.11.18-17.21.30:587][888]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/BattleTankMap_BuiltData31F5509A4A604E593AAAD4A38F2E0078.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset'
+[2018.11.18-17.21.30:590][888]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset
+[2018.11.18-17.21.45:326][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.21.47:431][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.22.11:716][856]Cmd: TRANSACTION UNDO
+[2018.11.18-17.22.11:716][856]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.22.11:805][856]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.11.18-17.22.11:870][856]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.22.12:265][888]Cmd: TRANSACTION UNDO
+[2018.11.18-17.22.12:266][888]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.22.12:341][888]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.11.18-17.22.12:378][888]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.22.32:167][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.22.36:551][459]Cmd: TRANSACTION UNDO
+[2018.11.18-17.22.36:552][459]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.22.36:630][459]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.11.18-17.22.36:738][459]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.11.18-17.22.37:112][490]Cmd: TRANSACTION UNDO
+[2018.11.18-17.22.37:112][490]LogEditorTransaction: Undo Edit Tool Strength
+[2018.11.18-17.22.37:999][592]Cmd: TRANSACTION UNDO
+[2018.11.18-17.22.37:999][592]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.22.38:054][592]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.11.18-17.22.39:033][701]Cmd: TRANSACTION UNDO
+[2018.11.18-17.22.39:033][701]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.22.41:948][ 32]Cmd: TRANSACTION REDO
+[2018.11.18-17.22.41:948][ 32]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2018.11.18-17.22.42:017][ 32]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.22.42:606][ 96]Cmd: TRANSACTION REDO
+[2018.11.18-17.22.42:606][ 96]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2018.11.18-17.22.43:826][227]Cmd: TRANSACTION UNDO
+[2018.11.18-17.22.43:826][227]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.22.44:058][240]Cmd: TRANSACTION UNDO
+[2018.11.18-17.22.44:058][240]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.22.44:579][290]Cmd: TRANSACTION REDO
+[2018.11.18-17.22.44:580][290]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2018.11.18-17.22.44:759][300]Cmd: TRANSACTION REDO
+[2018.11.18-17.22.44:759][300]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2018.11.18-17.22.59:004][648]Cmd: TRANSACTION UNDO
+[2018.11.18-17.22.59:004][648]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.22.59:093][648]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.11.18-17.22.59:185][648]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.11.18-17.23.24:668][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.23.30:500][609]Cmd: TRANSACTION UNDO
+[2018.11.18-17.23.30:500][609]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2018.11.18-17.23.30:653][609]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.11.18-17.23.30:711][609]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.11.18-17.23.30:802][609]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.11.18-17.23.30:917][609]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.11.18-17.23.30:971][609]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.11.18-17.23.31:877][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.23.38:268][390]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.11.18-17.23.38:323][390]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.23.41:071][699]Cmd: TRANSACTION UNDO
+[2018.11.18-17.23.41:072][699]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.11.18-17.23.42:127][789]Cmd: TRANSACTION UNDO
+[2018.11.18-17.23.42:128][789]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.23.42:829][857]Cmd: TRANSACTION UNDO
+[2018.11.18-17.23.42:829][857]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.23.43:295][902]Cmd: TRANSACTION UNDO
+[2018.11.18-17.23.43:295][902]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.23.43:355][902]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.23.43:785][945]Cmd: TRANSACTION UNDO
+[2018.11.18-17.23.43:785][945]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.11.18-17.23.43:863][945]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.23.45:626][143]Cmd: TRANSACTION REDO
+[2018.11.18-17.23.45:626][143]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2018.11.18-17.23.45:716][143]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.11.18-17.23.45:838][143]Cmd: TRANSACTION REDO
+[2018.11.18-17.23.45:838][143]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2018.11.18-17.23.45:920][143]Cmd: TRANSACTION REDO
+[2018.11.18-17.23.45:920][143]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2018.11.18-17.23.45:990][143]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.23.46:079][147]Cmd: TRANSACTION REDO
+[2018.11.18-17.23.46:079][147]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2018.11.18-17.23.46:139][147]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.11.18-17.23.46:229][154]Cmd: TRANSACTION REDO
+[2018.11.18-17.23.46:229][154]LogEditorTransaction: Redo Clicking on Actors (context menu)
+[2018.11.18-17.23.47:878][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.24.17:482][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-17.24.28:934][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.24.33:172][532]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.24.36:956][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.24.41:938][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.24.49:244][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.24.56:275][191]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.25.09:223][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.25.12:355][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.25.20:499][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.25.29:077][954]Cmd: TRANSACTION UNDO
+[2018.11.18-17.25.29:077][954]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2018.11.18-17.25.29:167][954]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.25.29:215][954]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.11.18-17.25.30:832][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.26.02:922][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.27.04:175][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-17.27.04:180][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleTankMap" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.18-17.27.04:326][244]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.11.18-17.27.04:335][244]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.11.18-17.27.04:343][244]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.11.18-17.27.04:352][244]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.11.18-17.27.04:362][244]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.11.18-17.27.04:371][244]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.11.18-17.27.04:381][244]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.11.18-17.27.04:402][244]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.11.18-17.27.04:415][244]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.11.18-17.27.04:425][244]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.11.18-17.27.04:435][244]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.11.18-17.27.04:444][244]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.11.18-17.27.04:454][244]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.11.18-17.27.04:462][244]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.11.18-17.27.04:471][244]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.11.18-17.27.04:480][244]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.11.18-17.27.11:102][244]LogSavePackage: Save=6878.29ms
+[2018.11.18-17.27.11:102][244]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/BattleTankMap46EBA188449985834D0D73A27B338FC5.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap'
+[2018.11.18-17.27.11:109][244]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap.umap
+[2018.11.18-17.27.11:552][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleTankMap_BuiltData" FILE="../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset" SILENT=true
+[2018.11.18-17.27.11:585][244]LogSavePackage: Save=12.86ms
+[2018.11.18-17.27.11:585][244]LogSavePackage: Moving '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Saved/BattleTankMap_BuiltDataCBBBDDC54DC22801B7E6E19B7F2830DF.tmp' to '../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset'
+[2018.11.18-17.27.11:588][244]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alberto99/Documents/Unreal Projects/BattleTank/Content/BattleTankMap_BuiltData.uasset
